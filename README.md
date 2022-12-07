@@ -9,3 +9,7 @@
 ```
 python -m pip install --trusted-host=pypi.org --trusted-host=files.pythonhosted.org --trusted-host=pypi.python.org <package name>
 ```
+
+## Demo
+
+[airbnb](https://colab.research.google.com/drive/1ZVetP6hO_ekwWc-W1phWu2ykEzLavBlT?usp=sharing)
