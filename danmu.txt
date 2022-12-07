@@ -1,0 +1,7310 @@
+[
+    {
+        "text": "神作，以二刷",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 2,
+        "time": 0,
+        "sn": 17602210,
+        "userid": "S0918376299"
+    },
+    {
+        "text": "可愛",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 0,
+        "sn": 17615215,
+        "userid": "illy0123"
+    },
+    {
+        "text": "簽w",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 0,
+        "time": 0,
+        "sn": 17618020,
+        "userid": "shic25030"
+    },
+    {
+        "text": "wwwwww",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 0,
+        "time": 0,
+        "sn": 17618026,
+        "userid": "shic25030"
+    },
+    {
+        "text": "<>",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 0,
+        "time": 0,
+        "sn": 17618056,
+        "userid": "shic25030"
+    },
+    {
+        "text": "滿身大漢",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 0,
+        "sn": 17739874,
+        "userid": "ramon5516"
+    },
+    {
+        "text": "吸鼠囉~~",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 0,
+        "sn": 17917823,
+        "userid": "george2008"
+    },
+    {
+        "text": " 2021霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 2,
+        "sn": 17610079,
+        "userid": "ratom0315"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 3,
+        "sn": 17539700,
+        "userid": "flydragonw"
+    },
+    {
+        "text": "???",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 4,
+        "sn": 17572379,
+        "userid": "dicktony"
+    },
+    {
+        "text": "太神啦",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 4,
+        "sn": 17665029,
+        "userid": "r04521104"
+    },
+    {
+        "text": "鬼步開啟",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 5,
+        "sn": 17608667,
+        "userid": "p2014422"
+    },
+    {
+        "text": "是什麼使我們相遇",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 5,
+        "sn": 17657941,
+        "userid": "scott910802"
+    },
+    {
+        "text": "歡迎回來",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 6,
+        "sn": 17666265,
+        "userid": "scott910802"
+    },
+    {
+        "text": "PUI PUIモルカー",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 6,
+        "sn": 17671249,
+        "userid": "bightj55430"
+    },
+    {
+        "text": "?????????????????",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 0,
+        "time": 6,
+        "sn": 27277213,
+        "userid": "Ethan836304"
+    },
+    {
+        "text": "大人才看天竺鼠車車",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 8,
+        "sn": 17670189,
+        "userid": "winnieowo52"
+    },
+    {
+        "text": "朝聖",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 1,
+        "time": 9,
+        "sn": 17602278,
+        "userid": "ivyfwerxa"
+    },
+    {
+        "text": "本季最佳動畫無誤",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 9,
+        "sn": 17659572,
+        "userid": "SillyJacky"
+    },
+    {
+        "text": "女漢子必看神作",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 2,
+        "time": 9,
+        "sn": 17710929,
+        "userid": "mimashelly"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 1,
+        "time": 10,
+        "sn": 17417175,
+        "userid": "lucky868moon"
+    },
+    {
+        "text": "小孩才看進巨 這才是猛男在看的",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 10,
+        "sn": 17629608,
+        "userid": "aa2652777"
+    },
+    {
+        "text": "為了看三分鐘的動漫 看了30秒的廣告",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 10,
+        "sn": 17668581,
+        "userid": "e126213477"
+    },
+    {
+        "text": "PUI",
+        "color": "#A7FE39",
+        "size": 2,
+        "position": 1,
+        "time": 10,
+        "sn": 24399701,
+        "userid": "MUSUBINIGA10"
+    },
+    {
+        "text": "本季霸權無誤",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 11,
+        "sn": 17422387,
+        "userid": "RC1962"
+    },
+    {
+        "text": "看了a jie來的",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 11,
+        "sn": 17600809,
+        "userid": "parn00588989"
+    },
+    {
+        "text": "燈楞燈燈燈楞燈燈燈",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 11,
+        "sn": 17676075,
+        "userid": "imleohaha"
+    },
+    {
+        "text": "神作阿",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 12,
+        "sn": 17577366,
+        "userid": "G74701725"
+    },
+    {
+        "text": "推",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 13,
+        "sn": 17625536,
+        "userid": "pp93827145"
+    },
+    {
+        "text": "扯",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 13,
+        "sn": 17665020,
+        "userid": "r04521104"
+    },
+    {
+        "text": "小朋友才看鬼滅，大人都看天竺鼠車車",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 0,
+        "time": 14,
+        "sn": 17566623,
+        "userid": "a7788456987"
+    },
+    {
+        "text": "大家好我又回來了",
+        "color": "#00C3FC",
+        "size": 2,
+        "position": 1,
+        "time": 14,
+        "sn": 17567577,
+        "userid": "yeh950608"
+    },
+    {
+        "text": "上車  不是上鼠(?)",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 15,
+        "sn": 17419890,
+        "userid": "PresidentPSC"
+    },
+    {
+        "text": "神作 簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 15,
+        "sn": 17625280,
+        "userid": "Hank1091211"
+    },
+    {
+        "text": ".................",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 18,
+        "sn": 17414424,
+        "userid": "wsyw"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 18,
+        "sn": 17661327,
+        "userid": "candy1045091"
+    },
+    {
+        "text": "二刷 簽",
+        "color": "#00C3FC",
+        "size": 1,
+        "position": 0,
+        "time": 18,
+        "sn": 17676748,
+        "userid": "J20050813"
+    },
+    {
+        "text": "看看我發現了什麼",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 20,
+        "sn": 17547020,
+        "userid": "jopsjmpwf46"
+    },
+    {
+        "text": "朝聖本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 20,
+        "sn": 17587498,
+        "userid": "ken58201314"
+    },
+    {
+        "text": "簽",
+        "color": "#00FF91",
+        "size": 2,
+        "position": 0,
+        "time": 20,
+        "sn": 18239654,
+        "userid": "Jemwu0202"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 20,
+        "sn": 20464661,
+        "userid": "Ee941225"
+    },
+    {
+        "text": "超可愛，好適合小朋友看",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 21,
+        "sn": 17416157,
+        "userid": "colatea36"
+    },
+    {
+        "text": "繼別冊奧林匹克之環之後的新毒品",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 21,
+        "sn": 17417704,
+        "userid": "zxc45845"
+    },
+    {
+        "text": "極短搞笑番",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 21,
+        "sn": 17548470,
+        "userid": "ct8506"
+    },
+    {
+        "text": "靠 原來最近推特上很紅的是這個www",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 21,
+        "sn": 17555204,
+        "userid": "a2517042253"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 21,
+        "sn": 17632727,
+        "userid": "llanny123456"
+    },
+    {
+        "text": "前方鬼之廖",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 21,
+        "sn": 17944302,
+        "userid": "ch60516"
+    },
+    {
+        "text": "這是什麼ㄎㄧㄤ作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 22,
+        "sn": 17417841,
+        "userid": "CoffeeCat030"
+    },
+    {
+        "text": "本季霸權！！！",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 23,
+        "sn": 17422391,
+        "userid": "RC1962"
+    },
+    {
+        "text": "天竺鼠車車才是真理",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 24,
+        "sn": 23260429,
+        "userid": "ks0513guy"
+    },
+    {
+        "text": "本季最強 不服來辯",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 27,
+        "sn": 17564214,
+        "userid": "yuysss"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 28,
+        "sn": 17932940,
+        "userid": "star1770"
+    },
+    {
+        "text": "神作啊！再看一次！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 29,
+        "sn": 17494056,
+        "userid": "ZERO"
+    },
+    {
+        "text": "霸權朝聖~",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 29,
+        "sn": 17588241,
+        "userid": "nekomimi01"
+    },
+    {
+        "text": "被推來看",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 30,
+        "sn": 17654207,
+        "userid": "FireDance910"
+    },
+    {
+        "text": "車車車車車車車車車車車車車車車車車車車車",
+        "color": "#FF02D3",
+        "size": 1,
+        "position": 0,
+        "time": 30,
+        "sn": 25181410,
+        "userid": "lxj0711"
+    },
+    {
+        "text": "本季霸權!",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 34,
+        "sn": 17416369,
+        "userid": "inru0107"
+    },
+    {
+        "text": "本季制霸",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 1,
+        "time": 34,
+        "sn": 17632630,
+        "userid": "ivyfwerxa"
+    },
+    {
+        "text": "四刷了!!停不下來啊啊阿",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 37,
+        "sn": 17471019,
+        "userid": "sarodi1991"
+    },
+    {
+        "text": "簽 首看 2021/1/22~",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 38,
+        "sn": 17686717,
+        "userid": "Bihuan520"
+    },
+    {
+        "text": "簽XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 38,
+        "sn": 17932964,
+        "userid": "star1770"
+    },
+    {
+        "text": "有夠可愛啊啊啊啊啊啊！！！！",
+        "color": "#FF9496",
+        "size": 1,
+        "position": 0,
+        "time": 39,
+        "sn": 17579074,
+        "userid": "a20911850"
+    },
+    {
+        "text": "好看欸",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 40,
+        "sn": 17439494,
+        "userid": "conanmi"
+    },
+    {
+        "text": "怕周球",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 40,
+        "sn": 17734513,
+        "userid": "OWA123456789"
+    },
+    {
+        "text": "PUI PUI~",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 1,
+        "time": 40,
+        "sn": 18096714,
+        "userid": "kamiko093115"
+    },
+    {
+        "text": "恐龍：危",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 41,
+        "sn": 17414636,
+        "userid": "koduck"
+    },
+    {
+        "text": "聽說是神作，來簽到",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 41,
+        "sn": 17658586,
+        "userid": "w45256301"
+    },
+    {
+        "text": "被 A Jie 推坑來的 +1",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 42,
+        "sn": 17586245,
+        "userid": "johnstyle"
+    },
+    {
+        "text": "wwwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 42,
+        "sn": 17657423,
+        "userid": "jessica1012"
+    },
+    {
+        "text": "是男人就要看天竺鼠車車",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 44,
+        "sn": 17642520,
+        "userid": "Yenyu1013"
+    },
+    {
+        "text": "這是兒童節目吧？",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 44,
+        "sn": 17690585,
+        "userid": "b980403"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 44,
+        "sn": 17727831,
+        "userid": "zxcvbnm0905"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 45,
+        "sn": 17421836,
+        "userid": "jimlin03"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 45,
+        "sn": 17529081,
+        "userid": "mumuwang511"
+    },
+    {
+        "text": "卡翹福利社代表 簽到",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 45,
+        "sn": 17532913,
+        "userid": "nintenmai"
+    },
+    {
+        "text": "快30歲的半熟大叔表示... 神..神作",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 1,
+        "time": 45,
+        "sn": 17612534,
+        "userid": "a3480848"
+    },
+    {
+        "text": "三刷",
+        "color": "#0036FA",
+        "size": 1,
+        "position": 0,
+        "time": 46,
+        "sn": 17513404,
+        "userid": "joyce9301"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 48,
+        "sn": 17419586,
+        "userid": "killbiggg"
+    },
+    {
+        "text": "六刷天竺鼠車車的我是否中毒了~",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 48,
+        "sn": 17573953,
+        "userid": "karta120812"
+    },
+    {
+        "text": "朝聖本季霸權",
+        "color": "#0036FA",
+        "size": 2,
+        "position": 0,
+        "time": 48,
+        "sn": 17600843,
+        "userid": "guashao"
+    },
+    {
+        "text": "來朝聖這批毒品到底有多純",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 48,
+        "sn": 17648545,
+        "userid": "vul3t4"
+    },
+    {
+        "text": "2021神作確認!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 49,
+        "sn": 17640178,
+        "userid": "a91101021"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 49,
+        "sn": 17670810,
+        "userid": "pei0420"
+    },
+    {
+        "text": "這讓我想起了PINGU帶給我的感動",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 50,
+        "sn": 17613868,
+        "userid": "akemi0509"
+    },
+    {
+        "text": "本   季   霸   權",
+        "color": "#BEBEBE",
+        "size": 1,
+        "position": 0,
+        "time": 50,
+        "sn": 17622591,
+        "userid": "P6NDA142676"
+    },
+    {
+        "text": "年度最強神作",
+        "color": "#0036FA",
+        "size": 2,
+        "position": 1,
+        "time": 50,
+        "sn": 17633623,
+        "userid": "a22207016"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 50,
+        "sn": 17669546,
+        "userid": "zxcpoj850624"
+    },
+    {
+        "text": "這第幾刷了，停不下來XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 51,
+        "sn": 17605235,
+        "userid": "waynepxa9564"
+    },
+    {
+        "text": "笑死霸權神作",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 51,
+        "sn": 17670435,
+        "userid": "aoo20191557"
+    },
+    {
+        "text": "推爆！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 52,
+        "sn": 17641342,
+        "userid": "magi311130"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 52,
+        "sn": 17675697,
+        "userid": "k75856630"
+    },
+    {
+        "text": "這幾台puipui都想要全買",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 52,
+        "sn": 17731889,
+        "userid": "cok"
+    },
+    {
+        "text": "N刷",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 55,
+        "sn": 17556352,
+        "userid": "Melody70810"
+    },
+    {
+        "text": "霸權？？？？？？？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 55,
+        "sn": 17567984,
+        "userid": "Minnnnnnnn"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 55,
+        "sn": 17663378,
+        "userid": "LL1224"
+    },
+    {
+        "text": "二刷",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 55,
+        "sn": 17725656,
+        "userid": "Bryceyoung"
+    },
+    {
+        "text": "簽到嘍",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 58,
+        "sn": 17627852,
+        "userid": "Wsx1111111"
+    },
+    {
+        "text": "一月霸權，天竺鼠",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 59,
+        "sn": 17599496,
+        "userid": "riddleorrice"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 59,
+        "sn": 17602037,
+        "userid": "Silkbow"
+    },
+    {
+        "text": "看大丸來的~",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 59,
+        "sn": 17606902,
+        "userid": "kuochi111"
+    },
+    {
+        "text": "不小心看了三次",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 60,
+        "sn": 17418496,
+        "userid": "world326001"
+    },
+    {
+        "text": "真的神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 60,
+        "sn": 17642433,
+        "userid": "kiki970422"
+    },
+    {
+        "text": "好可愛!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 65,
+        "sn": 17414504,
+        "userid": "mikai"
+    },
+    {
+        "text": "神座留名!",
+        "color": "#B538FA",
+        "size": 1,
+        "position": 0,
+        "time": 65,
+        "sn": 17567491,
+        "userid": "AngelLapidot"
+    },
+    {
+        "text": "Pui",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 65,
+        "sn": 20030514,
+        "userid": "jerrylaizoo"
+    },
+    {
+        "text": "追啦!!!!!!!!!!!!!!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 67,
+        "sn": 17425552,
+        "userid": "TRJR"
+    },
+    {
+        "text": "咘咘恰恰2021",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 67,
+        "sn": 17437758,
+        "userid": "danielonline"
+    },
+    {
+        "text": "西羅摩超可愛",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 68,
+        "sn": 17656519,
+        "userid": "angel9487"
+    },
+    {
+        "text": "霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 69,
+        "sn": 17540234,
+        "userid": "pockysword"
+    },
+    {
+        "text": "2021神作",
+        "color": "#FF9496",
+        "size": 1,
+        "position": 1,
+        "time": 70,
+        "sn": 17414832,
+        "userid": "chikaze12"
+    },
+    {
+        "text": "簽啦哪次不簽",
+        "color": "#FF02D3",
+        "size": 1,
+        "position": 0,
+        "time": 73,
+        "sn": 17609399,
+        "userid": "ax39732389"
+    },
+    {
+        "text": "神作…",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 1,
+        "time": 75,
+        "sn": 17603291,
+        "userid": "hata0795"
+    },
+    {
+        "text": "2022.4.9第十刷",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 75,
+        "sn": 26249076,
+        "userid": "y7cfn859m7"
+    },
+    {
+        "text": "簽 來看可愛天竺鼠車車",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 76,
+        "sn": 17835538,
+        "userid": "Peggy271187"
+    },
+    {
+        "text": "看看發現了什麼神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 77,
+        "sn": 17660780,
+        "userid": "s34239968"
+    },
+    {
+        "text": "＋1",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 78,
+        "sn": 17601253,
+        "userid": "AI00024A11"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 79,
+        "sn": 29577966,
+        "userid": "LMbook"
+    },
+    {
+        "text": "神作",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 80,
+        "sn": 17590103,
+        "userid": "Elio0121"
+    },
+    {
+        "text": "對像族群：少女www",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 82,
+        "sn": 17587118,
+        "userid": "abccz2000"
+    },
+    {
+        "text": "天竺鼠狗狗",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 83,
+        "sn": 17571963,
+        "userid": "sses1231230"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 83,
+        "sn": 17602570,
+        "userid": "vincent94666"
+    },
+    {
+        "text": "啊！太可愛了啦！",
+        "color": "#BEBEBE",
+        "size": 2,
+        "position": 2,
+        "time": 83,
+        "sn": 18809471,
+        "userid": "onnie18"
+    },
+    {
+        "text": "再...再吸一次就好",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 85,
+        "sn": 17820700,
+        "userid": "snake024"
+    },
+    {
+        "text": "Vivi好正",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 87,
+        "sn": 17672099,
+        "userid": "q04su4x"
+    },
+    {
+        "text": "刷",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 87,
+        "sn": 17795828,
+        "userid": "Fu132387488"
+    },
+    {
+        "text": "追!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 89,
+        "sn": 17426982,
+        "userid": "mw24923683"
+    },
+    {
+        "text": "神作啊鬼滅是什麼 進擊是什麼",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 90,
+        "sn": 17598979,
+        "userid": "UberPANDA"
+    },
+    {
+        "text": "好可愛",
+        "color": "#FF9496",
+        "size": 1,
+        "position": 0,
+        "time": 91,
+        "sn": 17579079,
+        "userid": "a20911850"
+    },
+    {
+        "text": "這個彈幕是在 也太多˙ˇ˙",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 91,
+        "sn": 22123211,
+        "userid": "sazzzzz0402"
+    },
+    {
+        "text": "這個彈幕也太多了吧",
+        "color": "#0036FA",
+        "size": 1,
+        "position": 0,
+        "time": 91,
+        "sn": 22123215,
+        "userid": "sazzzzz0402"
+    },
+    {
+        "text": " 簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 92,
+        "sn": 17708915,
+        "userid": "z7871495"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 93,
+        "sn": 17426440,
+        "userid": "mia314111"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 93,
+        "sn": 17549065,
+        "userid": "Melody70810"
+    },
+    {
+        "text": "霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 94,
+        "sn": 17529083,
+        "userid": "mumuwang511"
+    },
+    {
+        "text": "神作了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 95,
+        "sn": 17502449,
+        "userid": "f29202013"
+    },
+    {
+        "text": "可愛",
+        "color": "#FF9496",
+        "size": 1,
+        "position": 0,
+        "time": 95,
+        "sn": 17578843,
+        "userid": "vdchi99"
+    },
+    {
+        "text": "可愛！！！",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 96,
+        "sn": 17663296,
+        "userid": "a20040402"
+    },
+    {
+        "text": "10刷了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 96,
+        "sn": 20011509,
+        "userid": "anna20080401"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 98,
+        "sn": 17579566,
+        "userid": "EdwardCheng1"
+    },
+    {
+        "text": "追!!!",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 99,
+        "sn": 17415377,
+        "userid": "g21226"
+    },
+    {
+        "text": "超可愛😭😭",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 100,
+        "sn": 17741947,
+        "userid": "Penny070406"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 101,
+        "sn": 17554308,
+        "userid": "easter12325"
+    },
+    {
+        "text": "這她媽三小",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 101,
+        "sn": 17713285,
+        "userid": "barry636620"
+    },
+    {
+        "text": "呵呵",
+        "color": "#B538FA",
+        "size": 1,
+        "position": 0,
+        "time": 101,
+        "sn": 18146164,
+        "userid": "Shang8976"
+    },
+    {
+        "text": "本季霸權確定了！抱歉了巨人",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 104,
+        "sn": 17642241,
+        "userid": "a65654343v51"
+    },
+    {
+        "text": "二刷~~",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 104,
+        "sn": 20887443,
+        "userid": "ariel13"
+    },
+    {
+        "text": "神作",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 105,
+        "sn": 17658352,
+        "userid": "wantt"
+    },
+    {
+        "text": "你的錯",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 106,
+        "sn": 17546633,
+        "userid": "Nacre1999"
+    },
+    {
+        "text": "這是什麼啦wwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 106,
+        "sn": 17606644,
+        "userid": "liaxuan1114"
+    },
+    {
+        "text": "車可愛啊啊啊",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 106,
+        "sn": 17693054,
+        "userid": "Mirashe225"
+    },
+    {
+        "text": "女人就是要喜歡成熟的東西，例如天竺鼠車車",
+        "color": "#FF9496",
+        "size": 2,
+        "position": 2,
+        "time": 106,
+        "sn": 17702621,
+        "userid": "mimashelly"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 106,
+        "sn": 17726375,
+        "userid": "s103050s"
+    },
+    {
+        "text": "看起來像天竺鼠版的BUBU恰恰",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 108,
+        "sn": 17415520,
+        "userid": "ja1011532"
+    },
+    {
+        "text": "4刷",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 108,
+        "sn": 18810417,
+        "userid": "Goat8390"
+    },
+    {
+        "text": "小孩子才看鬼滅，大人都看天竺鼠ㄔㄜㄔㄜ",
+        "color": "#FF02D3",
+        "size": 2,
+        "position": 0,
+        "time": 109,
+        "sn": 17671322,
+        "userid": "Anuahs"
+    },
+    {
+        "text": "我是來吸毒的",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 114,
+        "sn": 17595855,
+        "userid": "myriven27"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 115,
+        "sn": 17602197,
+        "userid": "IamBongu0626"
+    },
+    {
+        "text": "神作",
+        "color": "#A7FE39",
+        "size": 1,
+        "position": 0,
+        "time": 115,
+        "sn": 17622726,
+        "userid": "egglover"
+    },
+    {
+        "text": "都不知道第幾刷了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 117,
+        "sn": 17656115,
+        "userid": "lelp5566"
+    },
+    {
+        "text": "這到底是什麼鬼",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 118,
+        "sn": 17692297,
+        "userid": "Y47758602"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 122,
+        "sn": 17425785,
+        "userid": "cstare"
+    },
+    {
+        "text": "刷不知道幾遍",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 123,
+        "sn": 17645278,
+        "userid": "logmistwind"
+    },
+    {
+        "text": "好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 124,
+        "sn": 17781497,
+        "userid": "moya0625"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 125,
+        "sn": 17582965,
+        "userid": "mirror0207"
+    },
+    {
+        "text": "可愛（等等這動作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 125,
+        "sn": 17625897,
+        "userid": "king960110"
+    },
+    {
+        "text": "XDDDDDDDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 127,
+        "sn": 17639108,
+        "userid": "a91101021"
+    },
+    {
+        "text": "本紀霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 130,
+        "sn": 17522638,
+        "userid": "miso11"
+    },
+    {
+        "text": "每日一刷～",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 130,
+        "sn": 17592970,
+        "userid": "mydiesky"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 130,
+        "sn": 17638235,
+        "userid": "XXX921229"
+    },
+    {
+        "text": "三刷了……中毒中",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 130,
+        "sn": 17661964,
+        "userid": "ab0988719481"
+    },
+    {
+        "text": "本季霸權大作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 133,
+        "sn": 17426441,
+        "userid": "mia314111"
+    },
+    {
+        "text": "我不知道我為什麼點進來 但我不後悔",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 135,
+        "sn": 17642876,
+        "userid": "Aa0902163055"
+    },
+    {
+        "text": "慕名前來",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 1,
+        "time": 138,
+        "sn": 17557175,
+        "userid": "jun0118"
+    },
+    {
+        "text": "baby66叫我來的",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 140,
+        "sn": 17579226,
+        "userid": "timl697741"
+    },
+    {
+        "text": "鼠形蜈蚣",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 142,
+        "sn": 17413236,
+        "userid": "a989a565"
+    },
+    {
+        "text": "簽",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 142,
+        "sn": 17584216,
+        "userid": "ppangela001"
+    },
+    {
+        "text": "哈哈哈哈",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 144,
+        "sn": 17457736,
+        "userid": "hogan8809"
+    },
+    {
+        "text": "超可愛哈哈哈哈哈哈哈哈哈哈哈",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 145,
+        "sn": 17594079,
+        "userid": "ktv0213"
+    },
+    {
+        "text": "今年霸權動畫 沒有之一",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 145,
+        "sn": 17654840,
+        "userid": "jotp6u04"
+    },
+    {
+        "text": "可愛！！",
+        "color": "#FF9496",
+        "size": 1,
+        "position": 0,
+        "time": 145,
+        "sn": 17709683,
+        "userid": "s980306"
+    },
+    {
+        "text": "Ajie推薦來朝聖",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 147,
+        "sn": 17595788,
+        "userid": "zweielolz"
+    },
+    {
+        "text": "為了這個三分鐘不到的動畫 我花了30秒看廣告",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 147,
+        "sn": 17649976,
+        "userid": "andywen707"
+    },
+    {
+        "text": "說不出來跟香蕉喵比哪個ㄎㄧㄤ",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 149,
+        "sn": 17582869,
+        "userid": "s8607012002"
+    },
+    {
+        "text": "來朝聖啦",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 149,
+        "sn": 17676019,
+        "userid": "imleohaha"
+    },
+    {
+        "text": "這尛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 154,
+        "sn": 17662936,
+        "userid": "gigila"
+    },
+    {
+        "text": "幹",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 154,
+        "sn": 18437731,
+        "userid": "f9833"
+    },
+    {
+        "text": "天竺鼠真的就是會這樣排隊XD 超可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 155,
+        "sn": 17415546,
+        "userid": "cdrw452452"
+    },
+    {
+        "text": "N刷了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 155,
+        "sn": 17604846,
+        "userid": "S0142011"
+    },
+    {
+        "text": "唉喲不錯哦！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 155,
+        "sn": 21285356,
+        "userid": "Leon1472"
+    },
+    {
+        "text": "我離不開了救命",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 158,
+        "sn": 17622779,
+        "userid": "ll0976151955"
+    },
+    {
+        "text": "馬鈴薯!",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 158,
+        "sn": 17698482,
+        "userid": "ac0114"
+    },
+    {
+        "text": "????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 159,
+        "sn": 17414428,
+        "userid": "SodameowOUO"
+    },
+    {
+        "text": "大人一致推薦 <天竺鼠車車>",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 159,
+        "sn": 17648394,
+        "userid": "DKLin0218"
+    },
+    {
+        "text": "這是什麼糞東西",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 159,
+        "sn": 21831456,
+        "userid": "Terry950614"
+    },
+    {
+        "text": "剛看完  這到底是三小XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 160,
+        "sn": 17414427,
+        "userid": "wsyw"
+    },
+    {
+        "text": "18+",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 0,
+        "time": 160,
+        "sn": 17617964,
+        "userid": "shic25030"
+    },
+    {
+        "text": "WW",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 160,
+        "sn": 19024953,
+        "userid": "jackyyeh0324"
+    },
+    {
+        "text": "可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 162,
+        "sn": 17626338,
+        "userid": "asd250480"
+    },
+    {
+        "text": "槓! 我還以為他在聞屁屁 嚇死",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 2,
+        "time": 163,
+        "sn": 17656366,
+        "userid": "afds9876"
+    },
+    {
+        "text": "本季霸權確定",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 164,
+        "sn": 17596447,
+        "userid": "edward030654"
+    },
+    {
+        "text": "神作!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 164,
+        "sn": 17628428,
+        "userid": "ms0550307"
+    },
+    {
+        "text": "好可愛唷～",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 165,
+        "sn": 17414630,
+        "userid": "cake870307"
+    },
+    {
+        "text": "排隊聞屁屁",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 165,
+        "sn": 17415026,
+        "userid": "mimi36103610"
+    },
+    {
+        "text": "嗯 嗯 是費洛蒙的味道",
+        "color": "#FF9625",
+        "size": 2,
+        "position": 1,
+        "time": 165,
+        "sn": 17553266,
+        "userid": "jordenkyokou"
+    },
+    {
+        "text": "十二刷",
+        "color": "#0036FA",
+        "size": 2,
+        "position": 2,
+        "time": 165,
+        "sn": 17899549,
+        "userid": "Mickey5487"
+    },
+    {
+        "text": "太可愛了(⊙ω⊙)！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 170,
+        "sn": 17443335,
+        "userid": "mydiesky"
+    },
+    {
+        "text": "再看一次",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 177,
+        "sn": 17592146,
+        "userid": "david7112123"
+    },
+    {
+        "text": "天啊太可愛！！！！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 181,
+        "sn": 17548751,
+        "userid": "s98b12"
+    },
+    {
+        "text": "這尛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 183,
+        "sn": 17670522,
+        "userid": "TWJS"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 184,
+        "sn": 17524371,
+        "userid": "FOODY"
+    },
+    {
+        "text": "這啥小..........",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 184,
+        "sn": 17655605,
+        "userid": "A24968631"
+    },
+    {
+        "text": "木棉花我愛你 代理這麼棒的動畫❤️",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 185,
+        "sn": 17560624,
+        "userid": "FURY2717666"
+    },
+    {
+        "text": "可愛動物樂園",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 185,
+        "sn": 25181406,
+        "userid": "lxj0711"
+    },
+    {
+        "text": "開車開起來",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 0,
+        "time": 189,
+        "sn": 17671343,
+        "userid": "Anuahs"
+    },
+    {
+        "text": "太神啦",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 191,
+        "sn": 17492377,
+        "userid": "ang7312059"
+    },
+    {
+        "text": "挺可愛的",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 192,
+        "sn": 17627409,
+        "userid": "DKLin0218"
+    },
+    {
+        "text": "我已經停不下來了!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 192,
+        "sn": 17764534,
+        "userid": "hogget128"
+    },
+    {
+        "text": "我怎麼又在吸毒",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 194,
+        "sn": 21037582,
+        "userid": "e19931117"
+    },
+    {
+        "text": "2刷",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 194,
+        "sn": 21979944,
+        "userid": "lifegpc"
+    },
+    {
+        "text": "天竺鼠聲音完全一樣~太可愛了喇~受不了❤",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 195,
+        "sn": 17413374,
+        "userid": "gp02780717"
+    },
+    {
+        "text": "好可愛喔",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 195,
+        "sn": 17673973,
+        "userid": "tom88010122"
+    },
+    {
+        "text": "神作!!!!!!!!!!!!!!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 196,
+        "sn": 17524882,
+        "userid": "david7112123"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 198,
+        "sn": 17416260,
+        "userid": "qu6d83qu6"
+    },
+    {
+        "text": "好可愛~",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 199,
+        "sn": 28844715,
+        "userid": "sharon981015"
+    },
+    {
+        "text": "¿¿¿¿¿",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 203,
+        "sn": 17491052,
+        "userid": "juice201279"
+    },
+    {
+        "text": "神作！！！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 204,
+        "sn": 17585284,
+        "userid": "aprilfool1"
+    },
+    {
+        "text": "pui pui pui pui pui pui",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 205,
+        "sn": 20473605,
+        "userid": "refdike016"
+    },
+    {
+        "text": "母湯",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 206,
+        "sn": 17591324,
+        "userid": "bap0717"
+    },
+    {
+        "text": "%%%%%",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 207,
+        "sn": 17639445,
+        "userid": "cji3vu04"
+    },
+    {
+        "text": "糟糕的姿勢",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 1,
+        "time": 207,
+        "sn": 17666295,
+        "userid": "scott910802"
+    },
+    {
+        "text": "好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 209,
+        "sn": 20776928,
+        "userid": "Tony20110924"
+    },
+    {
+        "text": "!!!!!!! 等等!!這個動作是??",
+        "color": "#FF9496",
+        "size": 2,
+        "position": 2,
+        "time": 210,
+        "sn": 17413377,
+        "userid": "wuchanbin"
+    },
+    {
+        "text": "恐龍播完後的新毒品！先吸為敬(*´∀｀）",
+        "color": "#FF9496",
+        "size": 2,
+        "position": 1,
+        "time": 210,
+        "sn": 17432880,
+        "userid": "rikka70205"
+    },
+    {
+        "text": "開場背後位！神作確定！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 210,
+        "sn": 17546561,
+        "userid": "leegun"
+    },
+    {
+        "text": "哇",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 210,
+        "sn": 22361338,
+        "userid": "Sarah0768713"
+    },
+    {
+        "text": "一開始就繁衍? 好真實",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 211,
+        "sn": 17670290,
+        "userid": "jdchuang"
+    },
+    {
+        "text": "卡通？",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 211,
+        "sn": 21831462,
+        "userid": "Terry950614"
+    },
+    {
+        "text": "2021霸權新番",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 212,
+        "sn": 17415149,
+        "userid": "hanbok625"
+    },
+    {
+        "text": "鼠爬位",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 1,
+        "time": 212,
+        "sn": 17942594,
+        "userid": "qwe11472"
+    },
+    {
+        "text": "吸毒吸起來",
+        "color": "#FF9625",
+        "size": 1,
+        "position": 2,
+        "time": 219,
+        "sn": 17595861,
+        "userid": "myriven27"
+    },
+    {
+        "text": "修但幾咧",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 220,
+        "sn": 17615219,
+        "userid": "illy0123"
+    },
+    {
+        "text": "天啊好萌",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 220,
+        "sn": 17651989,
+        "userid": "bonny0412"
+    },
+    {
+        "text": "一堆pupuchacha",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 221,
+        "sn": 17647592,
+        "userid": "Buikit"
+    },
+    {
+        "text": "這啥小",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 224,
+        "sn": 17655606,
+        "userid": "A24968631"
+    },
+    {
+        "text": "天竺鼠的聲音真的就是這樣子w",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 227,
+        "sn": 17640193,
+        "userid": "mango970422"
+    },
+    {
+        "text": "PPT",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 227,
+        "sn": 29810177,
+        "userid": "ericxcode"
+    },
+    {
+        "text": "是用走的?",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 228,
+        "sn": 17664963,
+        "userid": "r04521104"
+    },
+    {
+        "text": "小提醒：天竺鼠不能四腳朝天喔！",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 2,
+        "time": 238,
+        "sn": 18801654,
+        "userid": "ck891225"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 241,
+        "sn": 17638671,
+        "userid": "benson041193"
+    },
+    {
+        "text": "超級可愛又療育的片",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 242,
+        "sn": 17424935,
+        "userid": "crf30531"
+    },
+    {
+        "text": "我好愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 248,
+        "sn": 17637519,
+        "userid": "WeiYa0511"
+    },
+    {
+        "text": "好可愛喔",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 248,
+        "sn": 18362207,
+        "userid": "cobra73168"
+    },
+    {
+        "text": "配音好可愛ww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 254,
+        "sn": 17413376,
+        "userid": "aasw91330"
+    },
+    {
+        "text": "2021最強新番",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 254,
+        "sn": 17422401,
+        "userid": "RC1962"
+    },
+    {
+        "text": "還挺可愛的wwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 260,
+        "sn": 17414973,
+        "userid": "sunday31127"
+    },
+    {
+        "text": "可愛w",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 263,
+        "sn": 17542051,
+        "userid": "Xiao314"
+    },
+    {
+        "text": "太可愛了要死要死",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 263,
+        "sn": 17584230,
+        "userid": "upup5jp"
+    },
+    {
+        "text": "515151515151515151",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 265,
+        "sn": 17415089,
+        "userid": "hank4024"
+    },
+    {
+        "text": "Rtdhtchtc",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 0,
+        "time": 265,
+        "sn": 21345942,
+        "userid": "gpps104006"
+    },
+    {
+        "text": "霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 270,
+        "sn": 17638238,
+        "userid": "XXX921229"
+    },
+    {
+        "text": "好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 270,
+        "sn": 17663564,
+        "userid": "Sweeny0227"
+    },
+    {
+        "text": "無言",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 1,
+        "time": 275,
+        "sn": 17692303,
+        "userid": "Y47758602"
+    },
+    {
+        "text": "---動漫史上最強制霸認證---",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 1,
+        "time": 277,
+        "sn": 17679340,
+        "userid": "Danny0601"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 278,
+        "sn": 17561689,
+        "userid": "makkapakka"
+    },
+    {
+        "text": "咖蛙已",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 279,
+        "sn": 20776930,
+        "userid": "Tony20110924"
+    },
+    {
+        "text": "可愛❤️",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 280,
+        "sn": 17981111,
+        "userid": "Zoe900327"
+    },
+    {
+        "text": "神作",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 285,
+        "sn": 17642746,
+        "userid": "judytako"
+    },
+    {
+        "text": "卡哇一",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 287,
+        "sn": 21134824,
+        "userid": "linking0321"
+    },
+    {
+        "text": "聽說第2季要出了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 294,
+        "sn": 29332613,
+        "userid": "k0956683723"
+    },
+    {
+        "text": "本季霸權沒有之一",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 295,
+        "sn": 17598567,
+        "userid": "maxromx"
+    },
+    {
+        "text": "WWWWW",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 299,
+        "sn": 18047323,
+        "userid": "xianjiao0504"
+    },
+    {
+        "text": "??",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 303,
+        "sn": 17413991,
+        "userid": "babababab123"
+    },
+    {
+        "text": "可愛",
+        "color": "#B538FA",
+        "size": 2,
+        "position": 0,
+        "time": 304,
+        "sn": 19640609,
+        "userid": "Liy101541"
+    },
+    {
+        "text": "監督姊姊（也有參與製作）",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 305,
+        "sn": 17529619,
+        "userid": "jimmylily719"
+    },
+    {
+        "text": "塞好塞滿...",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 305,
+        "sn": 17660646,
+        "userid": "l70422"
+    },
+    {
+        "text": "姊姊妳好",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 305,
+        "sn": 17662386,
+        "userid": "a785785"
+    },
+    {
+        "text": "哈哈哈哈哈",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 306,
+        "sn": 17491071,
+        "userid": "juice201279"
+    },
+    {
+        "text": "神作留名",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 306,
+        "sn": 17614546,
+        "userid": "asd1239"
+    },
+    {
+        "text": "小孩子才戴手錶，大人都帶時鐘",
+        "color": "#0036FA",
+        "size": 1,
+        "position": 0,
+        "time": 308,
+        "sn": 17671359,
+        "userid": "Anuahs"
+    },
+    {
+        "text": "妳剛剛有翻車 妳知道嗎？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 310,
+        "sn": 17433113,
+        "userid": "qwe1237564"
+    },
+    {
+        "text": "這三小",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 313,
+        "sn": 17670524,
+        "userid": "TWJS"
+    },
+    {
+        "text": "還有人",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 315,
+        "sn": 17664978,
+        "userid": "r04521104"
+    },
+    {
+        "text": "連真人也要定格動畫笑死",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 2,
+        "time": 316,
+        "sn": 17643412,
+        "userid": "s2160512345"
+    },
+    {
+        "text": "?？？？？？？？？？？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 1,
+        "time": 317,
+        "sn": 18013102,
+        "userid": "a22634087"
+    },
+    {
+        "text": "???",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 320,
+        "sn": 17540911,
+        "userid": "blanc4"
+    },
+    {
+        "text": "??????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 2,
+        "time": 320,
+        "sn": 17540915,
+        "userid": "blanc4"
+    },
+    {
+        "text": "笑到手在抖",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 2,
+        "time": 320,
+        "sn": 17540921,
+        "userid": "blanc4"
+    },
+    {
+        "text": "羊毛氈意外的很有質感XDDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 321,
+        "sn": 17440373,
+        "userid": "kai7718"
+    },
+    {
+        "text": "企鵝家族的概念",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 327,
+        "sn": 17415666,
+        "userid": "lily267313"
+    },
+    {
+        "text": "??????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 329,
+        "sn": 17546641,
+        "userid": "Nacre1999"
+    },
+    {
+        "text": "？？？？？？？？？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 330,
+        "sn": 17414779,
+        "userid": "oelgw62459"
+    },
+    {
+        "text": "?????",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 2,
+        "time": 330,
+        "sn": 17417518,
+        "userid": "chopper3721"
+    },
+    {
+        "text": "開啟新的一年",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 330,
+        "sn": 17538765,
+        "userid": "mia49248174"
+    },
+    {
+        "text": "老娘九點要上班",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 331,
+        "sn": 17514946,
+        "userid": "pig3211"
+    },
+    {
+        "text": "來了~~~~療育啊啊",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 333,
+        "sn": 17655531,
+        "userid": "lily5202099"
+    },
+    {
+        "text": "kkkkkik",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 335,
+        "sn": 18551487,
+        "userid": "a3157259"
+    },
+    {
+        "text": "The 喪鐘",
+        "color": "#A7FE39",
+        "size": 1,
+        "position": 0,
+        "time": 339,
+        "sn": 17842749,
+        "userid": "Mhongyu"
+    },
+    {
+        "text": "哈哈哈突然真人",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 340,
+        "sn": 17521878,
+        "userid": "arisa1126"
+    },
+    {
+        "text": "時間暫停器",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 340,
+        "sn": 17636056,
+        "userid": "Phiopono7777"
+    },
+    {
+        "text": "開吸",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 342,
+        "sn": 17658979,
+        "userid": "cash910128"
+    },
+    {
+        "text": "？？？？？？？",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 1,
+        "time": 345,
+        "sn": 17602294,
+        "userid": "ivyfwerxa"
+    },
+    {
+        "text": "為什麼是拿鬧鐘wwwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 347,
+        "sn": 17479921,
+        "userid": "s93080"
+    },
+    {
+        "text": "可愛死了拉",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 347,
+        "sn": 17636713,
+        "userid": "a32319585"
+    },
+    {
+        "text": "本月第10刷",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 351,
+        "sn": 18505264,
+        "userid": "Zoelai825"
+    },
+    {
+        "text": "彈幕多到自己在哪都看不到了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 352,
+        "sn": 17665006,
+        "userid": "r04521104"
+    },
+    {
+        "text": "????????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 355,
+        "sn": 17553540,
+        "userid": "ab1216"
+    },
+    {
+        "text": "喪鐘",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 355,
+        "sn": 21403076,
+        "userid": "ancken9487"
+    },
+    {
+        "text": "簽神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 357,
+        "sn": 17536940,
+        "userid": "antyayi1030"
+    },
+    {
+        "text": "????????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 358,
+        "sn": 17423052,
+        "userid": "reasonfor"
+    },
+    {
+        "text": "好歹戴個手錶",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 2,
+        "time": 358,
+        "sn": 18168965,
+        "userid": "lovejokul"
+    },
+    {
+        "text": "????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 359,
+        "sn": 17693736,
+        "userid": "Jfungame22"
+    },
+    {
+        "text": "草",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 373,
+        "sn": 17670525,
+        "userid": "TWJS"
+    },
+    {
+        "text": "？？？！？！？？！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 376,
+        "sn": 17418865,
+        "userid": "b6032860328"
+    },
+    {
+        "text": "???????????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 379,
+        "sn": 17416098,
+        "userid": "mrnmrn769"
+    },
+    {
+        "text": "什麼鬼www",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 381,
+        "sn": 17587181,
+        "userid": "ann16142"
+    },
+    {
+        "text": "Ajie推來的",
+        "color": "#00FF91",
+        "size": 1,
+        "position": 0,
+        "time": 381,
+        "sn": 17591427,
+        "userid": "ndhuam103"
+    },
+    {
+        "text": "前面的是第二級的天竺鼠嗎？XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 384,
+        "sn": 17617037,
+        "userid": "putcowsister"
+    },
+    {
+        "text": "飯糰!",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 386,
+        "sn": 17419107,
+        "userid": "inru0107"
+    },
+    {
+        "text": "？？？？？？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 386,
+        "sn": 17473950,
+        "userid": "youzen1226"
+    },
+    {
+        "text": "??",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 387,
+        "sn": 27416507,
+        "userid": "pzps9929"
+    },
+    {
+        "text": "這個油光也太真實",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 392,
+        "sn": 17418375,
+        "userid": "yozedesu"
+    },
+    {
+        "text": "被AJ推進來的",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 392,
+        "sn": 17609597,
+        "userid": "st1053145"
+    },
+    {
+        "text": "？？？？？？？？？？？？？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 392,
+        "sn": 17618289,
+        "userid": "Cabbage0823"
+    },
+    {
+        "text": "咲死，嗑藥",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 392,
+        "sn": 17675312,
+        "userid": "deer2214"
+    },
+    {
+        "text": "真的太可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 397,
+        "sn": 17637520,
+        "userid": "WeiYa0511"
+    },
+    {
+        "text": "好可愛",
+        "color": "#00C3FC",
+        "size": 1,
+        "position": 0,
+        "time": 401,
+        "sn": 18717839,
+        "userid": "Julie06"
+    },
+    {
+        "text": "?!!!! 這到底嗑了甚麼",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 411,
+        "sn": 17456866,
+        "userid": "a073515756"
+    },
+    {
+        "text": "好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 413,
+        "sn": 27817383,
+        "userid": "M106069"
+    },
+    {
+        "text": "這她媽會笑死",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 415,
+        "sn": 17650571,
+        "userid": "AA1020184"
+    },
+    {
+        "text": "?????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 415,
+        "sn": 17654212,
+        "userid": "FireDance910"
+    },
+    {
+        "text": "屁",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 419,
+        "sn": 20776936,
+        "userid": "Tony20110924"
+    },
+    {
+        "text": "公司養很多，這個吵雜聲真的超還原",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 420,
+        "sn": 17424995,
+        "userid": "new9584711"
+    },
+    {
+        "text": "？？？？？？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 421,
+        "sn": 17536479,
+        "userid": "eslite112"
+    },
+    {
+        "text": "??????????????????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 424,
+        "sn": 17579399,
+        "userid": "kaju7910"
+    },
+    {
+        "text": "笑死，到底三小",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 429,
+        "sn": 17413355,
+        "userid": "mitsuha3"
+    },
+    {
+        "text": "????????????????????????????????????????????????????????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 2,
+        "time": 430,
+        "sn": 17675533,
+        "userid": "gigila"
+    },
+    {
+        "text": "XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 430,
+        "sn": 17848385,
+        "userid": "olaf8940"
+    },
+    {
+        "text": "真的都是天竺鼠的聲音耶",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 431,
+        "sn": 17556436,
+        "userid": "force28aa"
+    },
+    {
+        "text": "很想督",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 434,
+        "sn": 17693738,
+        "userid": "Jfungame22"
+    },
+    {
+        "text": "？？？？？？？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 444,
+        "sn": 21550210,
+        "userid": "taeminc"
+    },
+    {
+        "text": "死三寶",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 0,
+        "time": 445,
+        "sn": 17482764,
+        "userid": "Dodge850120"
+    },
+    {
+        "text": "為了不到3分鐘的車車看30秒的廣告",
+        "color": "#0036FA",
+        "size": 1,
+        "position": 0,
+        "time": 455,
+        "sn": 21319735,
+        "userid": "chima1835"
+    },
+    {
+        "text": "笑死，為什麼我凌晨4.在這裡",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 460,
+        "sn": 17422407,
+        "userid": "RC1962"
+    },
+    {
+        "text": "這真的是本季霸權啊~~~~~",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 468,
+        "sn": 17681593,
+        "userid": "k678502004"
+    },
+    {
+        "text": "笑死🤣",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 468,
+        "sn": 28844720,
+        "userid": "sharon981015"
+    },
+    {
+        "text": "董資董資董資董茲~~~~",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 472,
+        "sn": 17640997,
+        "userid": "tt935905"
+    },
+    {
+        "text": "看完30秒的廣告後給我看這種東西？ 真香",
+        "color": "#A7FE39",
+        "size": 1,
+        "position": 2,
+        "time": 474,
+        "sn": 17629756,
+        "userid": "angelina95"
+    },
+    {
+        "text": "我被騙進來了",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 0,
+        "time": 475,
+        "sn": 17642017,
+        "userid": "L125573371"
+    },
+    {
+        "text": "?",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 475,
+        "sn": 20051562,
+        "userid": "L0369"
+    },
+    {
+        "text": "好欠扁",
+        "color": "#B538FA",
+        "size": 1,
+        "position": 0,
+        "time": 477,
+        "sn": 17842758,
+        "userid": "Mhongyu"
+    },
+    {
+        "text": "垃圾三寶",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 479,
+        "sn": 17580822,
+        "userid": "wowaiy123"
+    },
+    {
+        "text": "喇叭直結叭下去了拉",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 481,
+        "sn": 18519200,
+        "userid": "b10644034"
+    },
+    {
+        "text": "旁邊有貓欸!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 486,
+        "sn": 17585143,
+        "userid": "tina6331"
+    },
+    {
+        "text": "以為後面那隻要吃草wwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 488,
+        "sn": 17416599,
+        "userid": "momokoasos"
+    },
+    {
+        "text": "我愛妳",
+        "color": "#A7FE39",
+        "size": 2,
+        "position": 0,
+        "time": 490,
+        "sn": 17703976,
+        "userid": "zz1010120"
+    },
+    {
+        "text": "DJ車車可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 495,
+        "sn": 17757939,
+        "userid": "Kyosaya96017"
+    },
+    {
+        "text": "求BGM",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 503,
+        "sn": 17591988,
+        "userid": "aeartt003"
+    },
+    {
+        "text": "導演本人 笑死",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 504,
+        "sn": 17602587,
+        "userid": "vincent94666"
+    },
+    {
+        "text": "導演是多愛他家的天竺鼠",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 505,
+        "sn": 17662402,
+        "userid": "a785785"
+    },
+    {
+        "text": "呱吉",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 507,
+        "sn": 17628792,
+        "userid": "R0909033249"
+    },
+    {
+        "text": "呱吉!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 507,
+        "sn": 17676083,
+        "userid": "dong0u0123"
+    },
+    {
+        "text": "第一眼以為呱吉",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 508,
+        "sn": 17491155,
+        "userid": "juice201279"
+    },
+    {
+        "text": "吸毒~吸起來",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 508,
+        "sn": 17760882,
+        "userid": "W391013"
+    },
+    {
+        "text": "來第三刷～～～",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 509,
+        "sn": 18047331,
+        "userid": "xianjiao0504"
+    },
+    {
+        "text": "呱吉？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 510,
+        "sn": 17587552,
+        "userid": "Pigfeet2046"
+    },
+    {
+        "text": "呱吉不要再吸寶寶了",
+        "color": "#A7FE39",
+        "size": 1,
+        "position": 2,
+        "time": 510,
+        "sn": 17675131,
+        "userid": "Anuahs"
+    },
+    {
+        "text": "邱議員請不要以身試法謝謝",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 510,
+        "sn": 17698692,
+        "userid": "aa851202"
+    },
+    {
+        "text": "ljldlgjkrlngvkrngvkrtnvgvngkvrnvgkjrvdnvgjnrgj",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 510,
+        "sn": 27277232,
+        "userid": "Ethan836304"
+    },
+    {
+        "text": "有夠可愛(⁎⁍̴̛ᴗ⁍̴̛⁎)",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 513,
+        "sn": 17576320,
+        "userid": "pimkg24"
+    },
+    {
+        "text": "?????????????????????????????????",
+        "color": "#FFFFFF",
+        "size": 0,
+        "position": 0,
+        "time": 513,
+        "sn": 17644281,
+        "userid": "jgjg12345"
+    },
+    {
+        "text": "這是監督?",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 515,
+        "sn": 17414984,
+        "userid": "U10100150"
+    },
+    {
+        "text": "監督本人",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 515,
+        "sn": 17529628,
+        "userid": "jimmylily719"
+    },
+    {
+        "text": "這什麼可愛的東西哪",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 519,
+        "sn": 17571964,
+        "userid": "asas1203"
+    },
+    {
+        "text": " 呱吉監督鼠鼠",
+        "color": "#A7FE39",
+        "size": 1,
+        "position": 0,
+        "time": 520,
+        "sn": 17671292,
+        "userid": "Anuahs"
+    },
+    {
+        "text": "呱吉4ni?",
+        "color": "#A7FE39",
+        "size": 2,
+        "position": 2,
+        "time": 521,
+        "sn": 17479931,
+        "userid": "s93080"
+    },
+    {
+        "text": "導演&導演家的天竺鼠↓",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 1,
+        "time": 531,
+        "sn": 17530738,
+        "userid": "annbe94"
+    },
+    {
+        "text": "吸貓時代結束了，該吸鼠囉",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 532,
+        "sn": 17671260,
+        "userid": "bightj55430"
+    },
+    {
+        "text": "呱吉？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 533,
+        "sn": 17638132,
+        "userid": "mc0310"
+    },
+    {
+        "text": "邱威傑他媽就你",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 533,
+        "sn": 17693147,
+        "userid": "carl20135"
+    },
+    {
+        "text": "音遊玩家",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 534,
+        "sn": 17689309,
+        "userid": "Simon930908"
+    },
+    {
+        "text": "77777777",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 534,
+        "sn": 21379317,
+        "userid": "j0909420667"
+    },
+    {
+        "text": "馬鈴薯本尊",
+        "color": "#FF9496",
+        "size": 1,
+        "position": 2,
+        "time": 534,
+        "sn": 29843806,
+        "userid": "rex1994july"
+    },
+    {
+        "text": "人行道不是很寬敞嗎???",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 535,
+        "sn": 17554252,
+        "userid": "bleach13th"
+    },
+    {
+        "text": "沒有喇叭嗎",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 535,
+        "sn": 17692310,
+        "userid": "Y47758602"
+    },
+    {
+        "text": "讓開，我要吸上方橘貓",
+        "color": "#FF9625",
+        "size": 1,
+        "position": 0,
+        "time": 536,
+        "sn": 17671304,
+        "userid": "Anuahs"
+    },
+    {
+        "text": "導演",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 536,
+        "sn": 17715475,
+        "userid": "a3300621"
+    },
+    {
+        "text": "愛心刷起來",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 541,
+        "sn": 17440693,
+        "userid": "pig3211"
+    },
+    {
+        "text": "呱吉",
+        "color": "#A7FE39",
+        "size": 1,
+        "position": 0,
+        "time": 545,
+        "sn": 17613522,
+        "userid": "a13131204"
+    },
+    {
+        "text": "三寶不意外。呵呵",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 545,
+        "sn": 18078327,
+        "userid": "ai2uEX34"
+    },
+    {
+        "text": "他是真的在吃草",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 545,
+        "sn": 20011565,
+        "userid": "anna20080401"
+    },
+    {
+        "text": "笑死 我為啥會看這個",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 547,
+        "sn": 17433437,
+        "userid": "a13579jeff"
+    },
+    {
+        "text": "天竺鼠不是倉鼠喔。",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 552,
+        "sn": 17422118,
+        "userid": "bruce1990030"
+    },
+    {
+        "text": "三寶",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 552,
+        "sn": 17693740,
+        "userid": "Jfungame22"
+    },
+    {
+        "text": "就是有你這種天竺鼠",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 555,
+        "sn": 17413691,
+        "userid": "qawsedrf39"
+    },
+    {
+        "text": "這番有毒吧",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 555,
+        "sn": 17417853,
+        "userid": "CoffeeCat030"
+    },
+    {
+        "text": "笑死這部有毒吧？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 555,
+        "sn": 17627203,
+        "userid": "SHAYUshayu"
+    },
+    {
+        "text": "???",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 555,
+        "sn": 20051564,
+        "userid": "L0369"
+    },
+    {
+        "text": "哈哈",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 555,
+        "sn": 22361368,
+        "userid": "Sarah0768713"
+    },
+    {
+        "text": "作者嗑了多少",
+        "color": "#A7FE39",
+        "size": 2,
+        "position": 0,
+        "time": 557,
+        "sn": 17529264,
+        "userid": "GreatJim"
+    },
+    {
+        "text": "???????????????????????????",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 2,
+        "time": 562,
+        "sn": 17656377,
+        "userid": "afds9876"
+    },
+    {
+        "text": "不可以吃鼠鼠QQ",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 0,
+        "time": 562,
+        "sn": 29846840,
+        "userid": "simon486"
+    },
+    {
+        "text": "乾啊這什麼阿笑死",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 564,
+        "sn": 17543668,
+        "userid": "qqq5632"
+    },
+    {
+        "text": "神作== 追定了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 565,
+        "sn": 17413995,
+        "userid": "a267531355"
+    },
+    {
+        "text": "羊?豬??鼠?? 傻傻不清楚",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 567,
+        "sn": 18593937,
+        "userid": "a82380"
+    },
+    {
+        "text": "台灣駕駛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 569,
+        "sn": 17672261,
+        "userid": "LOwilsonLO"
+    },
+    {
+        "text": "第二隻好可愛><~~",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 569,
+        "sn": 17820719,
+        "userid": "snake024"
+    },
+    {
+        "text": "可愛❤❤",
+        "color": "#00C3FC",
+        "size": 1,
+        "position": 0,
+        "time": 574,
+        "sn": 19524123,
+        "userid": "Julie06"
+    },
+    {
+        "text": "可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 579,
+        "sn": 17414434,
+        "userid": "SodameowOUO"
+    },
+    {
+        "text": "？？？？？？？？？？？？？？？？？？？？",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 580,
+        "sn": 17976340,
+        "userid": "Mickey5487"
+    },
+    {
+        "text": "哈哈哈",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 581,
+        "sn": 17418871,
+        "userid": "b6032860328"
+    },
+    {
+        "text": "開車看到這種的早叭下去了XDDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 582,
+        "sn": 17440340,
+        "userid": "kai7718"
+    },
+    {
+        "text": "抽搐",
+        "color": "#A7FE39",
+        "size": 1,
+        "position": 0,
+        "time": 582,
+        "sn": 17713315,
+        "userid": "barry636620"
+    },
+    {
+        "text": "笑死ww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 588,
+        "sn": 17654691,
+        "userid": "FQaaaa1"
+    },
+    {
+        "text": "靠北喔www",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 589,
+        "sn": 17647630,
+        "userid": "Buikit"
+    },
+    {
+        "text": "笑死 是導演本人哈哈哈哈",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 590,
+        "sn": 17693071,
+        "userid": "Mirashe225"
+    },
+    {
+        "text": "有夠難看的卡通，不服來辯",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 590,
+        "sn": 21831490,
+        "userid": "Terry950614"
+    },
+    {
+        "text": "就是有你這不守規矩的天竺鼠!!",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 591,
+        "sn": 17415206,
+        "userid": "amdymark"
+    },
+    {
+        "text": "30",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 594,
+        "sn": 18185556,
+        "userid": "song19751027"
+    },
+    {
+        "text": "wwwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 607,
+        "sn": 17444763,
+        "userid": "annbe94"
+    },
+    {
+        "text": "真香",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 620,
+        "sn": 17973610,
+        "userid": "JJB190"
+    },
+    {
+        "text": "神作預定",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 621,
+        "sn": 17422412,
+        "userid": "RC1962"
+    },
+    {
+        "text": "？？？？？？？？？？？？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 621,
+        "sn": 27582115,
+        "userid": "st0871720n"
+    },
+    {
+        "text": "........................................................",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 622,
+        "sn": 27277240,
+        "userid": "Ethan836304"
+    },
+    {
+        "text": "本季神番",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 625,
+        "sn": 17414512,
+        "userid": "mikai"
+    },
+    {
+        "text": "安寶",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 2,
+        "time": 625,
+        "sn": 17664212,
+        "userid": "Nobody5413"
+    },
+    {
+        "text": "?",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 632,
+        "sn": 17673886,
+        "userid": "shaichi0617"
+    },
+    {
+        "text": "天竺鼠真的是這個聲音",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 636,
+        "sn": 17556446,
+        "userid": "force28aa"
+    },
+    {
+        "text": "也太可愛XDDDDDDDDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 640,
+        "sn": 17415087,
+        "userid": "happy10226"
+    },
+    {
+        "text": "尛=ㄇㄚˊ",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 642,
+        "sn": 17662944,
+        "userid": "gigila"
+    },
+    {
+        "text": "wwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 643,
+        "sn": 17661251,
+        "userid": "carryrue"
+    },
+    {
+        "text": "??????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 644,
+        "sn": 17612999,
+        "userid": "qsbba123"
+    },
+    {
+        "text": "？？？？？？？？？？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 645,
+        "sn": 17648076,
+        "userid": "ADFJAPOHNV0"
+    },
+    {
+        "text": "救護車鼠鼠也太可愛～～",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 2,
+        "time": 645,
+        "sn": 18096727,
+        "userid": "kamiko093115"
+    },
+    {
+        "text": "寫實(各方面",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 654,
+        "sn": 17419147,
+        "userid": "seanbear"
+    },
+    {
+        "text": "療育",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 669,
+        "sn": 17655537,
+        "userid": "lily5202099"
+    },
+    {
+        "text": "乾　居然還有救護車ｘＤ",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 672,
+        "sn": 17531932,
+        "userid": "sunshineday"
+    },
+    {
+        "text": "好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 673,
+        "sn": 17477785,
+        "userid": "rizirizi"
+    },
+    {
+        "text": "我要被可愛鼠!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 674,
+        "sn": 17570434,
+        "userid": "w12345119"
+    },
+    {
+        "text": "..................................................",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 678,
+        "sn": 27277255,
+        "userid": "Ethan836304"
+    },
+    {
+        "text": "天竹鼠jo護車XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 688,
+        "sn": 20473624,
+        "userid": "refdike016"
+    },
+    {
+        "text": "連天竺鼠的呼嚕聲都有 神作w",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 2,
+        "time": 690,
+        "sn": 17560651,
+        "userid": "FURY2717666"
+    },
+    {
+        "text": "實驗鼠嗎⋯地獄",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 700,
+        "sn": 17586634,
+        "userid": "tinal309012"
+    },
+    {
+        "text": "好可愛!!",
+        "color": "#FFFFFF",
+        "size": 0,
+        "position": 0,
+        "time": 704,
+        "sn": 17698252,
+        "userid": "lunchtime135"
+    },
+    {
+        "text": "呃.....",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 707,
+        "sn": 17658247,
+        "userid": "linhontin"
+    },
+    {
+        "text": "前方高能！！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 713,
+        "sn": 17819112,
+        "userid": "Sjcheosi"
+    },
+    {
+        "text": "515151515151",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 715,
+        "sn": 17576648,
+        "userid": "yau8212"
+    },
+    {
+        "text": "哈",
+        "color": "#B538FA",
+        "size": 1,
+        "position": 0,
+        "time": 720,
+        "sn": 22361398,
+        "userid": "Sarah0768713"
+    },
+    {
+        "text": "向呈好可愛",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 723,
+        "sn": 17717999,
+        "userid": "wsxokm"
+    },
+    {
+        "text": "中毒了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 725,
+        "sn": 17973616,
+        "userid": "JJB190"
+    },
+    {
+        "text": "太可愛了吧",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 731,
+        "sn": 17417596,
+        "userid": "stariaria"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 732,
+        "sn": 17415668,
+        "userid": "lily267313"
+    },
+    {
+        "text": ",,,,,,,,,,,,,,,,,,,",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 736,
+        "sn": 27277264,
+        "userid": "Ethan836304"
+    },
+    {
+        "text": "太可愛 一看再看",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 738,
+        "sn": 17580767,
+        "userid": "david7112123"
+    },
+    {
+        "text": "這種單向車道對撞飛出去就完了",
+        "color": "#0036FA",
+        "size": 1,
+        "position": 2,
+        "time": 738,
+        "sn": 17675157,
+        "userid": "Anuahs"
+    },
+    {
+        "text": "天竺鼠的聲音耶",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 741,
+        "sn": 17556459,
+        "userid": "force28aa"
+    },
+    {
+        "text": "真鼠現身www",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 743,
+        "sn": 18871678,
+        "userid": "Eziojason"
+    },
+    {
+        "text": "好可愛我要瘋掉ㄌ",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 746,
+        "sn": 17548779,
+        "userid": "s98b12"
+    },
+    {
+        "text": " vchchcghnbvvhmvvbvvvnvnvnvn",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 756,
+        "sn": 27277269,
+        "userid": "Ethan836304"
+    },
+    {
+        "text": "可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 758,
+        "sn": 17549080,
+        "userid": "Melody70810"
+    },
+    {
+        "text": "真男人該看的",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 761,
+        "sn": 20834212,
+        "userid": "a9420587"
+    },
+    {
+        "text": "莫名3小的可愛！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 776,
+        "sn": 17565264,
+        "userid": "a839677"
+    },
+    {
+        "text": "救護鼠鼠好可愛!!!救命!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 777,
+        "sn": 17820741,
+        "userid": "snake024"
+    },
+    {
+        "text": "可愛鼠人了吧",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 787,
+        "sn": 17416674,
+        "userid": "jqlg497821"
+    },
+    {
+        "text": "壓死吉良的天竺鼠",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 2,
+        "time": 788,
+        "sn": 17766690,
+        "userid": "ccps1030063"
+    },
+    {
+        "text": "救護車要讓啊!!!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 794,
+        "sn": 17440345,
+        "userid": "kai7718"
+    },
+    {
+        "text": "愛死了",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 795,
+        "sn": 27817394,
+        "userid": "M106069"
+    },
+    {
+        "text": "那個鼻子我真的受不了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 800,
+        "sn": 17637526,
+        "userid": "WeiYa0511"
+    },
+    {
+        "text": "過半警告",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 803,
+        "sn": 17563462,
+        "userid": "raidenblade"
+    },
+    {
+        "text": "三小",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 804,
+        "sn": 17823415,
+        "userid": "BrownFox"
+    },
+    {
+        "text": "好ㄎㄧㄤ",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 809,
+        "sn": 17414259,
+        "userid": "a40823913"
+    },
+    {
+        "text": "太療癒了吧",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 810,
+        "sn": 17492442,
+        "userid": "ang7312059"
+    },
+    {
+        "text": "對不起我笑xk7",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 819,
+        "sn": 17414440,
+        "userid": "SodameowOUO"
+    },
+    {
+        "text": "這配色害我想到QB",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 821,
+        "sn": 17607054,
+        "userid": "Dount104332"
+    },
+    {
+        "text": "你對著人家的屁股看？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 825,
+        "sn": 17416048,
+        "userid": "crazyland"
+    },
+    {
+        "text": "來給你看屁股",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 825,
+        "sn": 17534269,
+        "userid": "qaz71930"
+    },
+    {
+        "text": "過半警告",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 827,
+        "sn": 17662462,
+        "userid": "TTeternal"
+    },
+    {
+        "text": "這風格好台灣",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 834,
+        "sn": 17671270,
+        "userid": "bightj55430"
+    },
+    {
+        "text": "夾手珍",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 834,
+        "sn": 17702648,
+        "userid": "mimashelly"
+    },
+    {
+        "text": "八點檔的既視感",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 835,
+        "sn": 17578890,
+        "userid": "vdchi99"
+    },
+    {
+        "text": "仔細看名單這位該不會是動畫導演吧ww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 836,
+        "sn": 17656721,
+        "userid": "saiyuu"
+    },
+    {
+        "text": "yagoo!!!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 836,
+        "sn": 17708436,
+        "userid": "wghh"
+    },
+    {
+        "text": "我的菜",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 837,
+        "sn": 17620381,
+        "userid": "piipodanz"
+    },
+    {
+        "text": "反觀台灣八點檔繃帶包頭",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 2,
+        "time": 837,
+        "sn": 17641104,
+        "userid": "tt935905"
+    },
+    {
+        "text": "哈哈哈哈哈",
+        "color": "#FF9496",
+        "size": 1,
+        "position": 0,
+        "time": 840,
+        "sn": 17652022,
+        "userid": "bonny0412"
+    },
+    {
+        "text": "頭髮骨折",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 2,
+        "time": 841,
+        "sn": 17594718,
+        "userid": "abreads"
+    },
+    {
+        "text": "出事了阿伯",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 1,
+        "time": 842,
+        "sn": 17629786,
+        "userid": "angelina95"
+    },
+    {
+        "text": "呵呵",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 842,
+        "sn": 17658249,
+        "userid": "linhontin"
+    },
+    {
+        "text": "JO護車",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 842,
+        "sn": 17741736,
+        "userid": "e19931117"
+    },
+    {
+        "text": "vjmvhvhghjvhgvghjcgchjhjgvghc",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 842,
+        "sn": 27277280,
+        "userid": "Ethan836304"
+    },
+    {
+        "text": "想到鄉土劇w",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 843,
+        "sn": 17417011,
+        "userid": "pilichanel"
+    },
+    {
+        "text": "啡吧",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 844,
+        "sn": 20776944,
+        "userid": "Tony20110924"
+    },
+    {
+        "text": "靠北",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 845,
+        "sn": 17654214,
+        "userid": "FireDance910"
+    },
+    {
+        "text": "出事了阿伯！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 845,
+        "sn": 17666370,
+        "userid": "scott910802"
+    },
+    {
+        "text": "????????????????????",
+        "color": "#B538FA",
+        "size": 2,
+        "position": 2,
+        "time": 845,
+        "sn": 17976356,
+        "userid": "Mickey5487"
+    },
+    {
+        "text": "裡面的景象太嚴肅了有笑點(?",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 849,
+        "sn": 17539866,
+        "userid": "sh29258356"
+    },
+    {
+        "text": "排隊驗尿",
+        "color": "#A7FE39",
+        "size": 1,
+        "position": 0,
+        "time": 850,
+        "sn": 17713325,
+        "userid": "barry636620"
+    },
+    {
+        "text": "要鼠人啦",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 854,
+        "sn": 17521517,
+        "userid": "OxOp"
+    },
+    {
+        "text": "路只有這一條?",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 854,
+        "sn": 17668862,
+        "userid": "ko669952"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 855,
+        "sn": 17417442,
+        "userid": "sushi11"
+    },
+    {
+        "text": "導演父母出演",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 858,
+        "sn": 21914995,
+        "userid": "relaxfinal"
+    },
+    {
+        "text": "喔不……",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 859,
+        "sn": 17513285,
+        "userid": "b0938123909"
+    },
+    {
+        "text": "腳骨折判定為腦震盪",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 862,
+        "sn": 17661306,
+        "userid": "mattchen0613"
+    },
+    {
+        "text": "出大事了阿北",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 2,
+        "time": 863,
+        "sn": 17591374,
+        "userid": "bap0717"
+    },
+    {
+        "text": "頭髮骨折ww",
+        "color": "#00C3FC",
+        "size": 1,
+        "position": 2,
+        "time": 863,
+        "sn": 17662959,
+        "userid": "gigila"
+    },
+    {
+        "text": "迷因",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 865,
+        "sn": 19117437,
+        "userid": "anya920324"
+    },
+    {
+        "text": "車子內部都是肉色的耶...恐",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 880,
+        "sn": 17416629,
+        "userid": "Zakacornnn"
+    },
+    {
+        "text": "嘴巴太可愛了吧wwwwwwwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 880,
+        "sn": 17534273,
+        "userid": "qaz71930"
+    },
+    {
+        "text": "以為我在看民視",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 881,
+        "sn": 17444773,
+        "userid": "annbe94"
+    },
+    {
+        "text": "狂鼠之淵",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 881,
+        "sn": 17671275,
+        "userid": "bightj55430"
+    },
+    {
+        "text": "這顏藝我直接噴飯wwwwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 884,
+        "sn": 17671280,
+        "userid": "bightj55430"
+    },
+    {
+        "text": "出人命啦",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 885,
+        "sn": 21742760,
+        "userid": "a8212238"
+    },
+    {
+        "text": "表情 經典！！！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 892,
+        "sn": 17580791,
+        "userid": "david7112123"
+    },
+    {
+        "text": "!?",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 894,
+        "sn": 17415524,
+        "userid": "ja1011532"
+    },
+    {
+        "text": "嘴巴開開也太可愛wwwwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 895,
+        "sn": 17642686,
+        "userid": "Richi4288"
+    },
+    {
+        "text": "!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 895,
+        "sn": 17648084,
+        "userid": "ADFJAPOHNV0"
+    },
+    {
+        "text": "哭哭臉好可愛",
+        "color": "#00C3FC",
+        "size": 2,
+        "position": 2,
+        "time": 895,
+        "sn": 17725675,
+        "userid": "Bryceyoung"
+    },
+    {
+        "text": "這段重播3000次",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 905,
+        "sn": 17797080,
+        "userid": "G5420230"
+    },
+    {
+        "text": "好可愛啊啊啊",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 906,
+        "sn": 17676976,
+        "userid": "Lim0"
+    },
+    {
+        "text": "噢哭哭QQ",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 909,
+        "sn": 17548784,
+        "userid": "s98b12"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 0,
+        "time": 909,
+        "sn": 17563349,
+        "userid": "pudasun123"
+    },
+    {
+        "text": "這什麼表情？",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 0,
+        "time": 912,
+        "sn": 18168989,
+        "userid": "lovejokul"
+    },
+    {
+        "text": "救護車鼠鼠哭哭Q_Q",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 914,
+        "sn": 17619992,
+        "userid": "archmek"
+    },
+    {
+        "text": "5151515151",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 915,
+        "sn": 17675026,
+        "userid": "zxcvbnm89757"
+    },
+    {
+        "text": "病人好可憐XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 916,
+        "sn": 17631919,
+        "userid": "peterwu2079"
+    },
+    {
+        "text": "那個腳腳好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 916,
+        "sn": 17637532,
+        "userid": "WeiYa0511"
+    },
+    {
+        "text": "別晃了,人會被你晃掛阿",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 1,
+        "time": 917,
+        "sn": 18555988,
+        "userid": "s5984102158"
+    },
+    {
+        "text": "神作啊",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 918,
+        "sn": 17456345,
+        "userid": "charley2309"
+    },
+    {
+        "text": "Puipui",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 920,
+        "sn": 17981133,
+        "userid": "Zoe900327"
+    },
+    {
+        "text": "哭了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 923,
+        "sn": 17416173,
+        "userid": "colatea36"
+    },
+    {
+        "text": "哭哭太可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 927,
+        "sn": 17584243,
+        "userid": "upup5jp"
+    },
+    {
+        "text": "靠北阿！ 是不會下車喔",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 928,
+        "sn": 17688008,
+        "userid": "allen080380"
+    },
+    {
+        "text": "那是嘴唇嗎",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 929,
+        "sn": 17693745,
+        "userid": "Jfungame22"
+    },
+    {
+        "text": "阿北出事了阿北",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 935,
+        "sn": 17625945,
+        "userid": "king960110"
+    },
+    {
+        "text": "水喔，跟台灣人一樣不會讓路",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 935,
+        "sn": 17667121,
+        "userid": "SamF40"
+    },
+    {
+        "text": "太可愛啦",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 937,
+        "sn": 17627905,
+        "userid": "Wsx1111111"
+    },
+    {
+        "text": "哭哭好可愛!!!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 940,
+        "sn": 17416609,
+        "userid": "momokoasos"
+    },
+    {
+        "text": "嘴巴好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 943,
+        "sn": 17418879,
+        "userid": "b6032860328"
+    },
+    {
+        "text": "鼠了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 945,
+        "sn": 17564228,
+        "userid": "yuysss"
+    },
+    {
+        "text": "太可愛了(*๓´╰╯`๓)♡",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 945,
+        "sn": 17753680,
+        "userid": "ec911105"
+    },
+    {
+        "text": "哭哭了 好可愛啊",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 947,
+        "sn": 17571974,
+        "userid": "asas1203"
+    },
+    {
+        "text": "急哭，好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 952,
+        "sn": 17693086,
+        "userid": "Mirashe225"
+    },
+    {
+        "text": "Q爆!!!!救命!!我要瘋!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 952,
+        "sn": 17820749,
+        "userid": "snake024"
+    },
+    {
+        "text": "他嘴巴真的超好笑",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 955,
+        "sn": 17663592,
+        "userid": "Sweeny0227"
+    },
+    {
+        "text": "我家天竺鼠的聲音",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 956,
+        "sn": 17626538,
+        "userid": "Kntx1025"
+    },
+    {
+        "text": "bvvhfhtr65363454353sxgfchnhvjmvhjmvjhvjhvjhvjhvjhvjhvj",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 958,
+        "sn": 27277286,
+        "userid": "Ethan836304"
+    },
+    {
+        "text": "監獄兔www",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 969,
+        "sn": 17529964,
+        "userid": "b150427"
+    },
+    {
+        "text": "天鼠交戰",
+        "color": "#FF9496",
+        "size": 1,
+        "position": 2,
+        "time": 970,
+        "sn": 29843821,
+        "userid": "rex1994july"
+    },
+    {
+        "text": "怕",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 972,
+        "sn": 17415527,
+        "userid": "ja1011532"
+    },
+    {
+        "text": "有像監獄兔XD",
+        "color": "#A7FE39",
+        "size": 1,
+        "position": 0,
+        "time": 975,
+        "sn": 17729405,
+        "userid": "Yallin"
+    },
+    {
+        "text": "表情好可愛",
+        "color": "#FFFFFF",
+        "size": 0,
+        "position": 0,
+        "time": 977,
+        "sn": 17526330,
+        "userid": "winter40114"
+    },
+    {
+        "text": "U點可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 982,
+        "sn": 17417072,
+        "userid": "z0916007563"
+    },
+    {
+        "text": "黃金精神！！！！",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 2,
+        "time": 995,
+        "sn": 17598581,
+        "userid": "maxromx"
+    },
+    {
+        "text": "j哇",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 996,
+        "sn": 17524434,
+        "userid": "Rhino5137a"
+    },
+    {
+        "text": "淚目",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 998,
+        "sn": 17422414,
+        "userid": "RC1962"
+    },
+    {
+        "text": "抖抖抖",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 998,
+        "sn": 17521901,
+        "userid": "arisa1126"
+    },
+    {
+        "text": "黃金精神！！！！！",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1001,
+        "sn": 17671286,
+        "userid": "bightj55430"
+    },
+    {
+        "text": "耳朵好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1004,
+        "sn": 17719353,
+        "userid": "leave6342"
+    },
+    {
+        "text": "哭哭了QQQQ",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1005,
+        "sn": 17661475,
+        "userid": "Kyosaya96017"
+    },
+    {
+        "text": "漢化組：？？？？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1006,
+        "sn": 17601362,
+        "userid": "a968602328"
+    },
+    {
+        "text": "馬鈴薯可愛到炸裂",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1013,
+        "sn": 17416266,
+        "userid": "qu6d83qu6"
+    },
+    {
+        "text": "Y",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1015,
+        "sn": 17981140,
+        "userid": "Zoe900327"
+    },
+    {
+        "text": "有夠可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1019,
+        "sn": 17417483,
+        "userid": "Rakumeow666"
+    },
+    {
+        "text": "太可愛了啦我的天啊",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1021,
+        "sn": 18298159,
+        "userid": "lomu67"
+    },
+    {
+        "text": "CP確定",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 0,
+        "time": 1027,
+        "sn": 17997683,
+        "userid": "mimashelly"
+    },
+    {
+        "text": "好可愛ww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1031,
+        "sn": 17611439,
+        "userid": "ivyfwerxa"
+    },
+    {
+        "text": "stack 的 運作方式(X",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1034,
+        "sn": 17660327,
+        "userid": "joy880427"
+    },
+    {
+        "text": "超可愛！！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1037,
+        "sn": 17426436,
+        "userid": "mia314111"
+    },
+    {
+        "text": "這段應該放you say run的",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1037,
+        "sn": 17532515,
+        "userid": "a35562eok270"
+    },
+    {
+        "text": "傷者家屬：？？？？？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1042,
+        "sn": 17529047,
+        "userid": "lingpiangu"
+    },
+    {
+        "text": "帥了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1042,
+        "sn": 21285395,
+        "userid": "Leon1472"
+    },
+    {
+        "text": "tsumtsum",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1045,
+        "sn": 17414449,
+        "userid": "SodameowOUO"
+    },
+    {
+        "text": "ok",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1046,
+        "sn": 17646308,
+        "userid": "a86781237"
+    },
+    {
+        "text": "西羅摩嚇死XDDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1051,
+        "sn": 17675659,
+        "userid": "N4070022"
+    },
+    {
+        "text": "可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1053,
+        "sn": 17554850,
+        "userid": "ilovecsi"
+    },
+    {
+        "text": "其實根本不用方向盤嘛😂車自己就會跑走",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1054,
+        "sn": 17640693,
+        "userid": "betty89661"
+    },
+    {
+        "text": "西羅摩的眼睛被你頂出來了啦喂XDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 2,
+        "time": 1055,
+        "sn": 17741235,
+        "userid": "xj4su6u83"
+    },
+    {
+        "text": "炸出一堆梗 笑死",
+        "color": "#FF9496",
+        "size": 2,
+        "position": 2,
+        "time": 1066,
+        "sn": 21550256,
+        "userid": "taeminc"
+    },
+    {
+        "text": "每一隻都有自己的造型好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1069,
+        "sn": 17491181,
+        "userid": "juice201279"
+    },
+    {
+        "text": "裡面的人是裝飾吧，車都自己來的XDDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1071,
+        "sn": 17415261,
+        "userid": "ayahsu"
+    },
+    {
+        "text": "我笑到無法自理XDDDDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1075,
+        "sn": 17639126,
+        "userid": "a91101021"
+    },
+    {
+        "text": "???????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1075,
+        "sn": 17654216,
+        "userid": "FireDance910"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1084,
+        "sn": 17606856,
+        "userid": "kenlinas"
+    },
+    {
+        "text": "最近推特上一堆這個www",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1087,
+        "sn": 17549181,
+        "userid": "winne91438"
+    },
+    {
+        "text": "7777777777777",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1100,
+        "sn": 17649160,
+        "userid": "qazwsx199786"
+    },
+    {
+        "text": "我好了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1102,
+        "sn": 17441354,
+        "userid": "shapaman0205"
+    },
+    {
+        "text": "西羅摩可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1122,
+        "sn": 17656542,
+        "userid": "angel9487"
+    },
+    {
+        "text": "XDDDDDDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1122,
+        "sn": 17703029,
+        "userid": "hasegawayui"
+    },
+    {
+        "text": "超前布鼠",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 1123,
+        "sn": 20280517,
+        "userid": "avitseng9110"
+    },
+    {
+        "text": "還敢偷渡噢",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1129,
+        "sn": 17448328,
+        "userid": "Tina0111"
+    },
+    {
+        "text": "???",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1132,
+        "sn": 27817400,
+        "userid": "M106069"
+    },
+    {
+        "text": "好可愛塞車了車車",
+        "color": "#B538FA",
+        "size": 2,
+        "position": 0,
+        "time": 1139,
+        "sn": 20026049,
+        "userid": "yiyun1109"
+    },
+    {
+        "text": "怕周球",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 1,
+        "time": 1145,
+        "sn": 17690362,
+        "userid": "asd331500575"
+    },
+    {
+        "text": "4X4",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 0,
+        "time": 1146,
+        "sn": 17602618,
+        "userid": "aaa2355987"
+    },
+    {
+        "text": "哈囉!",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 1147,
+        "sn": 17828027,
+        "userid": "aa396473"
+    },
+    {
+        "text": "三小",
+        "color": "#A7FE39",
+        "size": 1,
+        "position": 0,
+        "time": 1152,
+        "sn": 17713343,
+        "userid": "barry636620"
+    },
+    {
+        "text": "🤣🤣🤣🤣🤣🤣🤣",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1153,
+        "sn": 17415522,
+        "userid": "yoohoo8556"
+    },
+    {
+        "text": "太神啦車車",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1158,
+        "sn": 17414812,
+        "userid": "love31803"
+    },
+    {
+        "text": "幹這什麼動畫啊！一集就花了我三十分鐘！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1159,
+        "sn": 17604675,
+        "userid": "lelp5566"
+    },
+    {
+        "text": "耶！",
+        "color": "#0036FA",
+        "size": 1,
+        "position": 0,
+        "time": 1166,
+        "sn": 17818609,
+        "userid": "moya0625"
+    },
+    {
+        "text": "這集教會我們如何解決塞車",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1167,
+        "sn": 17671308,
+        "userid": "bightj55430"
+    },
+    {
+        "text": "?????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1171,
+        "sn": 17662678,
+        "userid": "haleyye"
+    },
+    {
+        "text": "腳動超快www可愛死惹>////<",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1172,
+        "sn": 17808999,
+        "userid": "snake024"
+    },
+    {
+        "text": "欸不是!?!? 到底???",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 2,
+        "time": 1173,
+        "sn": 17656393,
+        "userid": "afds9876"
+    },
+    {
+        "text": "覺得會被靜電電爆XDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1174,
+        "sn": 17636108,
+        "userid": "yeh318b"
+    },
+    {
+        "text": "原來這就是解決塞車的方法",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 0,
+        "time": 1175,
+        "sn": 17416795,
+        "userid": "ericheee"
+    },
+    {
+        "text": "什麼時候推周邊（興奮",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1175,
+        "sn": 17593000,
+        "userid": "mydiesky"
+    },
+    {
+        "text": "天竺鼠蜈蚣",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1179,
+        "sn": 17416248,
+        "userid": "Typs99006369"
+    },
+    {
+        "text": "正常開車技巧",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1179,
+        "sn": 17433127,
+        "userid": "qwe1237564"
+    },
+    {
+        "text": "???????????????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1179,
+        "sn": 17715766,
+        "userid": "kenny830503"
+    },
+    {
+        "text": "堆疊stack",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 1181,
+        "sn": 17584432,
+        "userid": "xjpjeass"
+    },
+    {
+        "text": "喔原來塞車是這樣解決的啊欸不是吧",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1184,
+        "sn": 17417870,
+        "userid": "CoffeeCat030"
+    },
+    {
+        "text": "這個!!!!",
+        "color": "#FF9496",
+        "size": 2,
+        "position": 2,
+        "time": 1188,
+        "sn": 17413385,
+        "userid": "wuchanbin"
+    },
+    {
+        "text": "為什麼我會覺得有心動的港覺",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1188,
+        "sn": 17627459,
+        "userid": "DKLin0218"
+    },
+    {
+        "text": "好可愛啊啊啊啊啊",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 1190,
+        "sn": 17629817,
+        "userid": "angelina95"
+    },
+    {
+        "text": "原來我們平常的開車方式都錯了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1191,
+        "sn": 17596091,
+        "userid": "mickychu9494"
+    },
+    {
+        "text": "乾哈哈哈哈哈哈",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1196,
+        "sn": 17830179,
+        "userid": "catstar2356"
+    },
+    {
+        "text": "??????????????????????????????????",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1199,
+        "sn": 17838021,
+        "userid": "z0070420"
+    },
+    {
+        "text": "666(=^･ｪ･^=)",
+        "color": "#0036FA",
+        "size": 1,
+        "position": 0,
+        "time": 1202,
+        "sn": 17818672,
+        "userid": "moya0625"
+    },
+    {
+        "text": "吸起來",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1205,
+        "sn": 17625049,
+        "userid": "tzuchouh"
+    },
+    {
+        "text": "不能跟救護車吧 這不是違法嗎??",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1207,
+        "sn": 17441860,
+        "userid": "turtlebj4"
+    },
+    {
+        "text": "哈姆太郎",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1209,
+        "sn": 17647651,
+        "userid": "Buikit"
+    },
+    {
+        "text": "觀念正確",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 0,
+        "time": 1211,
+        "sn": 17726433,
+        "userid": "LH7128"
+    },
+    {
+        "text": "J3小....",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1217,
+        "sn": 17417422,
+        "userid": "MIKE79372"
+    },
+    {
+        "text": "www",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1226,
+        "sn": 17417459,
+        "userid": "frank12345"
+    },
+    {
+        "text": "撸貓動作細膩，給動畫組加一把蔬菜",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1227,
+        "sn": 17671342,
+        "userid": "bightj55430"
+    },
+    {
+        "text": "<------------------------巨貓",
+        "color": "#00C3FC",
+        "size": 1,
+        "position": 1,
+        "time": 1228,
+        "sn": 17418820,
+        "userid": "h589214"
+    },
+    {
+        "text": "怕三曉周球",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1235,
+        "sn": 17997678,
+        "userid": "mimashelly"
+    },
+    {
+        "text": " 順序反轉",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1239,
+        "sn": 17693749,
+        "userid": "Jfungame22"
+    },
+    {
+        "text": "幹這車有毒",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1251,
+        "sn": 17604996,
+        "userid": "ksa492252"
+    },
+    {
+        "text": "我也要買天竺鼠車車",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1253,
+        "sn": 17549993,
+        "userid": "liphiyala"
+    },
+    {
+        "text": "???????????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1253,
+        "sn": 18593960,
+        "userid": "a82380"
+    },
+    {
+        "text": "地鳴免費體驗",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 2,
+        "time": 1255,
+        "sn": 17643444,
+        "userid": "s2160512345"
+    },
+    {
+        "text": "烏德",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1260,
+        "sn": 17638475,
+        "userid": "Rex20040205"
+    },
+    {
+        "text": "地鳴免費體驗",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1262,
+        "sn": 17671347,
+        "userid": "bightj55430"
+    },
+    {
+        "text": "地鳴免費體驗",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1262,
+        "sn": 17693098,
+        "userid": "Mirashe225"
+    },
+    {
+        "text": "???",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1266,
+        "sn": 17640134,
+        "userid": "q451c"
+    },
+    {
+        "text": "JD楊自走車",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1267,
+        "sn": 17539165,
+        "userid": "heavier300"
+    },
+    {
+        "text": "誰說烏德的你出來wwwwww",
+        "color": "#B538FA",
+        "size": 1,
+        "position": 0,
+        "time": 1273,
+        "sn": 17512157,
+        "userid": "Redcarp24"
+    },
+    {
+        "text": "這眼睛就很靈⬆️",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 1273,
+        "sn": 17587740,
+        "userid": "Ukulele066"
+    },
+    {
+        "text": "當個聰明的用路人",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 1,
+        "time": 1275,
+        "sn": 17599053,
+        "userid": "Light1022"
+    },
+    {
+        "text": "地鳴哈哈",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1278,
+        "sn": 17658600,
+        "userid": "kuanyy1130"
+    },
+    {
+        "text": "哈哈哈哈哈哈哈哈哈",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1280,
+        "sn": 17654219,
+        "userid": "FireDance910"
+    },
+    {
+        "text": "地鳴的受害者+1",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1281,
+        "sn": 17628115,
+        "userid": "Adxczcs"
+    },
+    {
+        "text": "大好笑了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1282,
+        "sn": 17457745,
+        "userid": "hogan8809"
+    },
+    {
+        "text": "本季神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1285,
+        "sn": 17510621,
+        "userid": "sabermice"
+    },
+    {
+        "text": "地鳴笑死xd",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 1285,
+        "sn": 22540735,
+        "userid": "Vivian1737"
+    },
+    {
+        "text": "以冠名本季神作",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1288,
+        "sn": 17611479,
+        "userid": "ivyfwerxa"
+    },
+    {
+        "text": "BGM突然燃起來",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1293,
+        "sn": 17554862,
+        "userid": "ilovecsi"
+    },
+    {
+        "text": "沒違法吧，綠燈了啊 是那台車在擋路",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1296,
+        "sn": 17543715,
+        "userid": "qqq5632"
+    },
+    {
+        "text": "說烏德的我們好好談談",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1299,
+        "sn": 17529078,
+        "userid": "lingpiangu"
+    },
+    {
+        "text": "這個車太神啦",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1304,
+        "sn": 17438609,
+        "userid": "du881123"
+    },
+    {
+        "text": "哈哈哈哈哈",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1306,
+        "sn": 17418885,
+        "userid": "b6032860328"
+    },
+    {
+        "text": "天竺鼠自己也沒在注意路況啊www 還肇逃",
+        "color": "#00C3FC",
+        "size": 1,
+        "position": 0,
+        "time": 1312,
+        "sn": 17419917,
+        "userid": "na1997na2"
+    },
+    {
+        "text": "挖挖",
+        "color": "#0036FA",
+        "size": 1,
+        "position": 0,
+        "time": 1317,
+        "sn": 17818703,
+        "userid": "moya0625"
+    },
+    {
+        "text": "太香了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1319,
+        "sn": 17419803,
+        "userid": "kvyer"
+    },
+    {
+        "text": "三寶就該這樣處理😂",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1320,
+        "sn": 17786489,
+        "userid": "sky10290"
+    },
+    {
+        "text": "我的車車...",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1324,
+        "sn": 17514952,
+        "userid": "ted07135"
+    },
+    {
+        "text": "80",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1327,
+        "sn": 17693751,
+        "userid": "Jfungame22"
+    },
+    {
+        "text": "笑死",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1328,
+        "sn": 17415529,
+        "userid": "ja1011532"
+    },
+    {
+        "text": "瘋了",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1328,
+        "sn": 27817406,
+        "userid": "M106069"
+    },
+    {
+        "text": "人像是排便一樣排出來",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1339,
+        "sn": 17418211,
+        "userid": "world326001"
+    },
+    {
+        "text": "轟隆隆隆衝衝衝衝拉風引擎發動",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1342,
+        "sn": 17601863,
+        "userid": "zxcv12595"
+    },
+    {
+        "text": "這邊是吐出來嗎XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1344,
+        "sn": 17666933,
+        "userid": "gotobaha"
+    },
+    {
+        "text": "有毒阿！！！乾！！！",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 1344,
+        "sn": 17705995,
+        "userid": "Pomero877"
+    },
+    {
+        "text": "草",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1349,
+        "sn": 17586460,
+        "userid": "yyYaa95810"
+    },
+    {
+        "text": "看自己駕駛像在看大便一樣的車",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1351,
+        "sn": 17641123,
+        "userid": "tt935905"
+    },
+    {
+        "text": "看把車子嚇跑了XDDDDD",
+        "color": "#B538FA",
+        "size": 1,
+        "position": 0,
+        "time": 1352,
+        "sn": 17658270,
+        "userid": "zmzzxcvbn126"
+    },
+    {
+        "text": "鼠鼠嚇到WWWWWWWW",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1354,
+        "sn": 17418214,
+        "userid": "world326001"
+    },
+    {
+        "text": "本季霸權預定XDD笑死",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1355,
+        "sn": 17417174,
+        "userid": "azo6227"
+    },
+    {
+        "text": "wwwwwwwwwwwwww爆笑XDDDD太可愛了~~~",
+        "color": "#00C3FC",
+        "size": 0,
+        "position": 2,
+        "time": 1357,
+        "sn": 17692274,
+        "userid": "cute77mouse"
+    },
+    {
+        "text": "真的不需要駕駛了www",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1361,
+        "sn": 17448431,
+        "userid": "whitesand"
+    },
+    {
+        "text": "車車可以自己開走R",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1362,
+        "sn": 17415824,
+        "userid": "PresidentPSC"
+    },
+    {
+        "text": "烙跑再說",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1362,
+        "sn": 21285122,
+        "userid": "adam047"
+    },
+    {
+        "text": "後面的貓會動！！！",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 1,
+        "time": 1365,
+        "sn": 17452559,
+        "userid": "Asdf22htyu8"
+    },
+    {
+        "text": "Wait! Wait!",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 1370,
+        "sn": 17728289,
+        "userid": "eggplant171"
+    },
+    {
+        "text": "哈哈哈哈哈哈哈",
+        "color": "#FF9496",
+        "size": 1,
+        "position": 0,
+        "time": 1370,
+        "sn": 18307871,
+        "userid": "hururu"
+    },
+    {
+        "text": "FBI open up!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1380,
+        "sn": 17413701,
+        "userid": "qawsedrf39"
+    },
+    {
+        "text": "未禮讓救護車",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 1,
+        "time": 1381,
+        "sn": 21224430,
+        "userid": "x23202026"
+    },
+    {
+        "text": "本季霸權無誤",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 1387,
+        "sn": 17422420,
+        "userid": "RC1962"
+    },
+    {
+        "text": "車跑了XDDDDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1390,
+        "sn": 17553565,
+        "userid": "ab1216"
+    },
+    {
+        "text": "三寶欠抓wwwwwwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1390,
+        "sn": 17657889,
+        "userid": "kuanyu212"
+    },
+    {
+        "text": "承太郎",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1391,
+        "sn": 17693760,
+        "userid": "Jfungame22"
+    },
+    {
+        "text": "救護車開道",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1397,
+        "sn": 17524444,
+        "userid": "Rhino5137a"
+    },
+    {
+        "text": "汽車駕駛人新臺幣三千六百元罰鍰",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 1,
+        "time": 1403,
+        "sn": 21224459,
+        "userid": "x23202026"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1404,
+        "sn": 17762818,
+        "userid": "asdwqe13579"
+    },
+    {
+        "text": "警察: 時間快到啦收割收割",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1411,
+        "sn": 17625941,
+        "userid": "sirabyousi"
+    },
+    {
+        "text": "男上加男",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 1414,
+        "sn": 17636117,
+        "userid": "yeh318b"
+    },
+    {
+        "text": "強人鎖男",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 1414,
+        "sn": 17675186,
+        "userid": "Anuahs"
+    },
+    {
+        "text": "警察叔叔就是這個人",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1415,
+        "sn": 17422995,
+        "userid": "emc2light"
+    },
+    {
+        "text": "強人索男",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1420,
+        "sn": 17666419,
+        "userid": "scott910802"
+    },
+    {
+        "text": "左右為男",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 1,
+        "time": 1420,
+        "sn": 17666430,
+        "userid": "scott910802"
+    },
+    {
+        "text": "I can’t breath",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 1,
+        "time": 1420,
+        "sn": 17666487,
+        "userid": "scott910802"
+    },
+    {
+        "text": "有一個警察把頭塞在另一個人的跨下wwwww",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1422,
+        "sn": 17477631,
+        "userid": "cheninda1234"
+    },
+    {
+        "text": "呱吉被補",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 2,
+        "time": 1424,
+        "sn": 17513488,
+        "userid": "joyce9301"
+    },
+    {
+        "text": "右邊那個是貼在人家屁股上嗎",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1425,
+        "sn": 17421389,
+        "userid": "j29839220"
+    },
+    {
+        "text": "強人鎖男",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1425,
+        "sn": 17623170,
+        "userid": "prime17"
+    },
+    {
+        "text": "奇怪的姿勢增加了",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 1,
+        "time": 1426,
+        "sn": 17648471,
+        "userid": "DKLin0218"
+    },
+    {
+        "text": "也出動太多警察了吧XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1428,
+        "sn": 17539916,
+        "userid": "sh29258356"
+    },
+    {
+        "text": "ㄜ拗⋯",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1428,
+        "sn": 17586522,
+        "userid": "tinal309012"
+    },
+    {
+        "text": "男上加男",
+        "color": "#00C3FC",
+        "size": 2,
+        "position": 0,
+        "time": 1428,
+        "sn": 17942631,
+        "userid": "qwe11472"
+    },
+    {
+        "text": "開車再給我不專心啊www",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1430,
+        "sn": 17647407,
+        "userid": "nan44503"
+    },
+    {
+        "text": "太可愛了吧",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1430,
+        "sn": 27817408,
+        "userid": "M106069"
+    },
+    {
+        "text": "<---可愛貓貓",
+        "color": "#FF9625",
+        "size": 1,
+        "position": 1,
+        "time": 1431,
+        "sn": 17701342,
+        "userid": "baba12123"
+    },
+    {
+        "text": "並吊銷駕駛執照",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 1,
+        "time": 1434,
+        "sn": 21224463,
+        "userid": "x23202026"
+    },
+    {
+        "text": "富江.....",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1435,
+        "sn": 17588504,
+        "userid": "kururu851023"
+    },
+    {
+        "text": "哀馬真香",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1443,
+        "sn": 17645749,
+        "userid": "Qaz59591111"
+    },
+    {
+        "text": "男上加男",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1445,
+        "sn": 17587526,
+        "userid": "s5875276"
+    },
+    {
+        "text": "右上的警察",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1445,
+        "sn": 26542052,
+        "userid": "ab123654789"
+    },
+    {
+        "text": "警察鼠鼠",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 1,
+        "time": 1446,
+        "sn": 17445368,
+        "userid": "qwertyu1331"
+    },
+    {
+        "text": "30分鐘到了!?",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1448,
+        "sn": 17628138,
+        "userid": "fghj3810"
+    },
+    {
+        "text": "計程車？",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 1450,
+        "sn": 17428860,
+        "userid": "f5738696"
+    },
+    {
+        "text": "....",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1458,
+        "sn": 17701394,
+        "userid": "lu12345678"
+    },
+    {
+        "text": "搶頭香啦！！！",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1461,
+        "sn": 17625073,
+        "userid": "reach0115"
+    },
+    {
+        "text": "感謝祭",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1463,
+        "sn": 17416745,
+        "userid": "E1254206290"
+    },
+    {
+        "text": "威傑母湯",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1463,
+        "sn": 17671271,
+        "userid": "Anuahs"
+    },
+    {
+        "text": "這避震器應該不錯",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1473,
+        "sn": 17415832,
+        "userid": "PresidentPSC"
+    },
+    {
+        "text": "體感2分40秒",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1478,
+        "sn": 17641612,
+        "userid": "wew66741688"
+    },
+    {
+        "text": "三線道？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1479,
+        "sn": 17554435,
+        "userid": "BugIhc"
+    },
+    {
+        "text": "好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1480,
+        "sn": 17413826,
+        "userid": "a920316a"
+    },
+    {
+        "text": "體感3分鐘",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1482,
+        "sn": 18092044,
+        "userid": "bca96035"
+    },
+    {
+        "text": "是在哈搂",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1482,
+        "sn": 20776963,
+        "userid": "Tony20110924"
+    },
+    {
+        "text": "有毒",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1486,
+        "sn": 17537580,
+        "userid": "herbleng"
+    },
+    {
+        "text": "那個感謝祭www",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1489,
+        "sn": 17417877,
+        "userid": "CoffeeCat030"
+    },
+    {
+        "text": "一天又平安的過去了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 1,
+        "time": 1490,
+        "sn": 17668878,
+        "userid": "ko669952"
+    },
+    {
+        "text": "天竺鼠暴走！",
+        "color": "#FFFFFF",
+        "size": 2,
+        "position": 0,
+        "time": 1490,
+        "sn": 18169017,
+        "userid": "lovejokul"
+    },
+    {
+        "text": "請問這是三小啦啦啦啦啦啦啦！！！！！",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 0,
+        "time": 1496,
+        "sn": 17800696,
+        "userid": "Ving2005"
+    },
+    {
+        "text": "腐",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 0,
+        "time": 1500,
+        "sn": 17699003,
+        "userid": "weihsin1213"
+    },
+    {
+        "text": "年假塞車要學好",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1508,
+        "sn": 17660682,
+        "userid": "l70422"
+    },
+    {
+        "text": "三小時過真快",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1509,
+        "sn": 17627310,
+        "userid": "steven00004"
+    },
+    {
+        "text": "剛剛趴下來的樣子豪可愛…",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1510,
+        "sn": 17548800,
+        "userid": "s98b12"
+    },
+    {
+        "text": "不要把頭手伸出去啊",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1511,
+        "sn": 17693765,
+        "userid": "Jfungame22"
+    },
+    {
+        "text": "芳文跳",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1515,
+        "sn": 17533619,
+        "userid": "yhchen2"
+    },
+    {
+        "text": "應該要24分鐘",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1516,
+        "sn": 17507725,
+        "userid": "sz10060122"
+    },
+    {
+        "text": "辣個感謝祭",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 1517,
+        "sn": 17661331,
+        "userid": "mattchen0613"
+    },
+    {
+        "text": "音響有那麼大嗎？",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1520,
+        "sn": 21833322,
+        "userid": "qk303866"
+    },
+    {
+        "text": "頭探出窗外最高可罰9000元",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 1521,
+        "sn": 17417747,
+        "userid": "zxc45845"
+    },
+    {
+        "text": "我到底看了什麼",
+        "color": "#A7FE39",
+        "size": 2,
+        "position": 1,
+        "time": 1524,
+        "sn": 17677280,
+        "userid": "Forth"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#A7FE39",
+        "size": 2,
+        "position": 2,
+        "time": 1529,
+        "sn": 17529300,
+        "userid": "GreatJim"
+    },
+    {
+        "text": "我是誰 我在哪 這是什麼...",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1530,
+        "sn": 17680732,
+        "userid": "jumo1013"
+    },
+    {
+        "text": "體感兩分鐘。。",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1531,
+        "sn": 17479141,
+        "userid": "leo16782008"
+    },
+    {
+        "text": "可可愛愛",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 1531,
+        "sn": 17698320,
+        "userid": "lunchtime135"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1534,
+        "sn": 17715863,
+        "userid": "lin930211"
+    },
+    {
+        "text": "時間小偷啊",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1535,
+        "sn": 17544969,
+        "userid": "dragono"
+    },
+    {
+        "text": "有吃毒捏",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1537,
+        "sn": 17419669,
+        "userid": "a71715901"
+    },
+    {
+        "text": "好可愛xd",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1539,
+        "sn": 17549780,
+        "userid": "qaz741862593"
+    },
+    {
+        "text": "這影片好毒",
+        "color": "#FFFFFF",
+        "size": 0,
+        "position": 0,
+        "time": 1540,
+        "sn": 17526371,
+        "userid": "winter40114"
+    },
+    {
+        "text": "抽搐",
+        "color": "#A7FE39",
+        "size": 1,
+        "position": 0,
+        "time": 1540,
+        "sn": 17713367,
+        "userid": "barry636620"
+    },
+    {
+        "text": "下面那個罰9000的你等等",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1544,
+        "sn": 17610867,
+        "userid": "ing9520"
+    },
+    {
+        "text": "追定了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1545,
+        "sn": 17414654,
+        "userid": "cake870307"
+    },
+    {
+        "text": "三小拉wwwww",
+        "color": "#00C3FC",
+        "size": 2,
+        "position": 2,
+        "time": 1545,
+        "sn": 17415213,
+        "userid": "amdymark"
+    },
+    {
+        "text": "我看了....三小",
+        "color": "#0036FA",
+        "size": 1,
+        "position": 0,
+        "time": 1545,
+        "sn": 17662977,
+        "userid": "Eason9419"
+    },
+    {
+        "text": "體感兩分鐘",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1546,
+        "sn": 17540362,
+        "userid": "getter2"
+    },
+    {
+        "text": "好毒阿",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1549,
+        "sn": 17582174,
+        "userid": "BigDurian"
+    },
+    {
+        "text": "乾 太可愛了吧！！",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 1554,
+        "sn": 17426425,
+        "userid": "derekhaung"
+    },
+    {
+        "text": "神...神作...",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1554,
+        "sn": 17428261,
+        "userid": "hinaji"
+    },
+    {
+        "text": "神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1554,
+        "sn": 17587212,
+        "userid": "ann16142"
+    },
+    {
+        "text": "等等 我麵還沒泡好就沒了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1555,
+        "sn": 17417183,
+        "userid": "azo6227"
+    },
+    {
+        "text": "耳機大哥是監督本人耶XDDDDDD",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 1555,
+        "sn": 17639172,
+        "userid": "Lisa88052468"
+    },
+    {
+        "text": "好喜歡哦 超療癒",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1556,
+        "sn": 17585807,
+        "userid": "luhan420112"
+    },
+    {
+        "text": "好可愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1559,
+        "sn": 17609654,
+        "userid": "st1053145"
+    },
+    {
+        "text": "乾好可愛wwwww 神作確定!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1561,
+        "sn": 17538321,
+        "userid": "gracelee823"
+    },
+    {
+        "text": "果然是小孩子看的動畫 不用動腦就能看了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1561,
+        "sn": 17694907,
+        "userid": "Emily36701"
+    },
+    {
+        "text": "天竹",
+        "color": "#00C3FC",
+        "size": 1,
+        "position": 0,
+        "time": 1561,
+        "sn": 17827212,
+        "userid": "GGs12345amy"
+    },
+    {
+        "text": "時間小偷ww",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 1564,
+        "sn": 17611506,
+        "userid": "ivyfwerxa"
+    },
+    {
+        "text": "這三小",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1565,
+        "sn": 17418410,
+        "userid": "yozedesu"
+    },
+    {
+        "text": "XDDDDD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1565,
+        "sn": 17418412,
+        "userid": "yozedesu"
+    },
+    {
+        "text": "???",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1565,
+        "sn": 17721632,
+        "userid": "o19920414"
+    },
+    {
+        "text": "讚欸",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1568,
+        "sn": 17415578,
+        "userid": "glen920626"
+    },
+    {
+        "text": "乾 也太可愛了",
+        "color": "#FF0026",
+        "size": 1,
+        "position": 2,
+        "time": 1570,
+        "sn": 17427616,
+        "userid": "ett931108"
+    },
+    {
+        "text": "一月霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1570,
+        "sn": 17601757,
+        "userid": "K37314016"
+    },
+    {
+        "text": "豪可愛",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 1570,
+        "sn": 17707485,
+        "userid": "orson0628"
+    },
+    {
+        "text": "這三小= =",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1572,
+        "sn": 17652437,
+        "userid": "lp562389"
+    },
+    {
+        "text": "◎–",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1572,
+        "sn": 27598308,
+        "userid": "st0871720n"
+    },
+    {
+        "text": "體感兩分鐘",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 1574,
+        "sn": 17608117,
+        "userid": "ana787803874"
+    },
+    {
+        "text": "這時間小偷!體感5秒而已OAO",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1575,
+        "sn": 17521443,
+        "userid": "cherubicnyo7"
+    },
+    {
+        "text": "好有魔力害我重看3次",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1575,
+        "sn": 17853978,
+        "userid": "happy0356"
+    },
+    {
+        "text": "神..神作",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1575,
+        "sn": 26904916,
+        "userid": "wagtiaing"
+    },
+    {
+        "text": "這有毒啊!!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1577,
+        "sn": 17686549,
+        "userid": "hgame47"
+    },
+    {
+        "text": "我到底看了甚麼",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1578,
+        "sn": 17415513,
+        "userid": "o454545o"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1580,
+        "sn": 17433820,
+        "userid": "z1236544485t"
+    },
+    {
+        "text": "好萌阿！",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 2,
+        "time": 1581,
+        "sn": 17626211,
+        "userid": "Parco487"
+    },
+    {
+        "text": "被我弟叫來看的 結果好好看",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1583,
+        "sn": 17585810,
+        "userid": "luhan420112"
+    },
+    {
+        "text": "NICE~",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1583,
+        "sn": 18047371,
+        "userid": "xianjiao0504"
+    },
+    {
+        "text": "這麼可愛的東西給我來一大",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1585,
+        "sn": 17414055,
+        "userid": "wrt901015"
+    },
+    {
+        "text": "我看了什麼XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1585,
+        "sn": 17414765,
+        "userid": "ss90728tw"
+    },
+    {
+        "text": "體感2分鐘",
+        "color": "#FF0026",
+        "size": 2,
+        "position": 0,
+        "time": 1585,
+        "sn": 17670449,
+        "userid": "aoo20191557"
+    },
+    {
+        "text": "讚",
+        "color": "#00FF91",
+        "size": 1,
+        "position": 1,
+        "time": 1587,
+        "sn": 18146175,
+        "userid": "Shang8976"
+    },
+    {
+        "text": "??????????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1588,
+        "sn": 17693766,
+        "userid": "Jfungame22"
+    },
+    {
+        "text": "健康的飲食",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1589,
+        "sn": 17599566,
+        "userid": "riddleorrice"
+    },
+    {
+        "text": "也太真香了吧！",
+        "color": "#FDE53D",
+        "size": 2,
+        "position": 0,
+        "time": 1590,
+        "sn": 17660661,
+        "userid": "bab123799408"
+    },
+    {
+        "text": "這部太可愛了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1591,
+        "sn": 17416529,
+        "userid": "jaykevin1120"
+    },
+    {
+        "text": "幹好好笑",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1591,
+        "sn": 17673416,
+        "userid": "luo88092"
+    },
+    {
+        "text": "對啊！就是兒童節目啊！!",
+        "color": "#FF02D3",
+        "size": 2,
+        "position": 0,
+        "time": 1591,
+        "sn": 17690629,
+        "userid": "b980403"
+    },
+    {
+        "text": "愛愛",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1591,
+        "sn": 17819061,
+        "userid": "David200705"
+    },
+    {
+        "text": "本季霸權",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1594,
+        "sn": 17414825,
+        "userid": "love31803"
+    },
+    {
+        "text": "???????????",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1594,
+        "sn": 17439655,
+        "userid": "howard7266"
+    },
+    {
+        "text": "我看了三小 真香",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1594,
+        "sn": 17464834,
+        "userid": "MaybeRabbit"
+    },
+    {
+        "text": "本季神作出來了",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1594,
+        "sn": 17510637,
+        "userid": "sabermice"
+    },
+    {
+        "text": "巴哈最新毒品上市!!",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1595,
+        "sn": 17413857,
+        "userid": "oo23456"
+    },
+    {
+        "text": "超可愛XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1595,
+        "sn": 17595275,
+        "userid": "airiacat"
+    },
+    {
+        "text": "體感兩分鐘",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1595,
+        "sn": 17663610,
+        "userid": "Sweeny0227"
+    },
+    {
+        "text": "這三小",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1595,
+        "sn": 17663615,
+        "userid": "Sweeny0227"
+    },
+    {
+        "text": "感謝飛天小竺鼠的努力～今天又是和平的一天",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1595,
+        "sn": 17663625,
+        "userid": "Sweeny0227"
+    },
+    {
+        "text": "好看欸XD",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1596,
+        "sn": 17440150,
+        "userid": "OAO1024"
+    },
+    {
+        "text": "本季大佬 可愛的同時又有毒",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1600,
+        "sn": 17420092,
+        "userid": "pinitoast"
+    },
+    {
+        "text": "哈哈",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1600,
+        "sn": 17457728,
+        "userid": "hogan8809"
+    },
+    {
+        "text": "彈幕毀了這幕wwwww((稱讚意味",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1600,
+        "sn": 17525095,
+        "userid": "esakura"
+    },
+    {
+        "text": "太可愛了吧",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1600,
+        "sn": 17586488,
+        "userid": "eneoref03958"
+    },
+    {
+        "text": "本紀霸權讚",
+        "color": "#FDE53D",
+        "size": 1,
+        "position": 0,
+        "time": 1600,
+        "sn": 17597142,
+        "userid": "q9023216"
+    },
+    {
+        "text": "好可愛啊~~~決定追起乃啦",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1600,
+        "sn": 17625527,
+        "userid": "wowobi0627"
+    },
+    {
+        "text": "體感三分鐘",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1600,
+        "sn": 17637568,
+        "userid": "zxc914118"
+    },
+    {
+        "text": "體感兩分鐘 本來就兩分鐘",
+        "color": "#FFFFFF",
+        "size": 1,
+        "position": 0,
+        "time": 1600,
+        "sn": 17667537,
+        "userid": "jasonkuang"
+    }
+]
